@@ -1,0 +1,218 @@
+Jerry
+  High-post hub with the ball on a string: bolts passes, risky ones too; prefers the jumper and fires over any contest, low release so it is blocked a lot; an undersized post scorer who seals with muscle and footwork; a lazy, Harden-esque poker on defence; a cerebral box-out rebounder.
+  base: his own row as the Sheet has it
+  OVR 95.8 at SF (no target)
+  archetype: wanted 3-Level Generator | the draft reads Crafty Offensive Engine | the Sheet's row reads Crafty Offensive Engine
+  the Sheet's row as it is: OVR 96.8 at SF
+
+Jack Skellington
+  The modern uber-tall do-it-all big: scores at all three levels, leans to the three, shifty handle, runs the pick-and-roll and pop with Jerry and creates for others; an elite shot-blocker, too thin to anchor the post; young - somewhat inefficient and turnover-heavy.
+  base: his own row as the Sheet has it
+  OVR 93.3 at C (no target)
+  archetype: wanted Unicorn | the draft reads 2-Way Lengthy Shot Creator | the Sheet's row reads 2-Way Lengthy Shot Creator
+  the Sheet's row as it is: OVR 95.5 at C
+
+Sarangi II
+  Gets buckets and little else - tunnel vision, not selfish; a beast when it matters most. Of the three the most true to the brand: scores most often, most turnovers, the worst defender, the strongest (still pushable).
+  base: his own row; 41 blank cells from Jordan Clarkson 50%, Jordan Poole 50%
+  OVR 61.5 at SG (no target)
+  archetype: wanted Shot Creator | the draft reads Sharpshooter | the Sheet's row reads Sharpshooter
+  the Sheet's row as it is: OVR 61.5 at SG
+
+Ollie & Louie
+  Came in a pure lock, grown into a solid two-way player: cuts, finishes, knocks down the open jumper enough to be respected, otherwise stays off the ball. One of the NSL's most nightmarish defenders - length and reflexes, pokes it free, switches onto post players (better on the perimeter); takes the other team's best player.
+  comps: Herb Jones 70%, Jaden McDaniels 30%
+  OVR 82.6 at PF (guide 82, band 82-86): inside it as the recipe made him
+  line at 34 min: shot 8.0 FGA a 36 (13.0 is 50); touches the comp's 42, x0.89 for his usage; shot_3_pointer 2.9 of 7.6 FGA; shot_close the twos 71% close, 29% mid-range, as the comp's
+  archetype: wanted Switchable Defender | the draft reads Facilitating Lockdown | the Sheet's row reads Lengthy Play Finisher
+  the Sheet's row as it is: OVR 60.1 at PF
+
+Kyogre
+  Undersized, athletic, all heart: a play finisher and lob threat with a passable jumper; connects when needed. Mobile and long - stays in front on the perimeter and is a stalwart in the post, affecting a lot of shots; quick into the lanes. One of the league's premier glass-cleaners; boxes out so teammates can get it. Glue.
+  comps: Moussa Diabate 70%, Kevon Looney 30%
+  OVR 81.8 at C (guide 81, band 81-85): inside it as the recipe made him
+  line at 24 min: shot 10.1 FGA a 36 (13.0 is 50); touches the comp's 53, x1.24 for his usage; shot_3_pointer 1.3 of 6.7 FGA; shot_close the twos 93% close, 7% mid-range, as the comp's
+  archetype: wanted Rim Protecting Play Finisher | the draft reads Glass-Cleaning Ball Hawk | the Sheet's row reads High IQ Paint Beast
+  the Sheet's row as it is: OVR 92.7 at C
+
+Chocolate
+  Humongous, among the strongest players in league history, immovable. Not a skilled scorer and rarely looks for his shot: creates for others with screens on and off the ball and second chances; scores almost only on clean-ups, very efficiently. A low-post anchor who affects more shots than he blocks; a glass presence, immovable on a box-out.
+  comps: Aday Mara 60%, Steven Adams 40%
+  OVR 83.9 at C (guide 83, band 83-87): inside it as the recipe made him
+  line at 19 min: shot 9.5 FGA a 36 (13.0 is 50); touches the comp's 45, x1.41 for his usage; shot_3_pointer 0.1 of 5.0 FGA; shot_close the twos 90% close, 10% mid-range, as the comp's
+  archetype: wanted Paint Beast | the draft reads 2-Way Physical Play Finisher | the Sheet's row reads 2-Way Physical Playmaking Big
+  the Sheet's row as it is: OVR 88.4 at C
+
+Narwhee
+  A modern take on the small point guard: high IQ, a capable jumper and creation that punish mistakes; more threes than anything, a real outside threat; fast - short drives, then the dish, the three or the mid-range. Small enough to be hidden on defence, but always gives effort.
+  comps: Tre Jones 100%
+  OVR 82.3 after the recipe -> 80.0 at PG (guide 76, band 76-80; the rest of his skills x0.94 above 25)
+  line at 16 min: shot 8.1 FGA a 36 (13.0 is 50); touches the comp's 53, x0.85 for his usage; shot_3_pointer 2.1 of 3.6 FGA; shot_close the twos 86% close, 14% mid-range, as the comp's
+  archetype: wanted High IQ Combo Guard | the draft reads Inside-the-Arc Scorer | the Sheet's row reads Playmaking Sharpshooter
+  the Sheet's row as it is: OVR 81.2 at PG
+
+Stego
+  Jack-of-all-trades glue: strong as an ox and excellent at nothing else - finishes plays, sets hard screens, chases rebounds; a plus defender though badly undersized; the little things. His advanced score per minute should match Narwhee's.
+  comps: Luguentz Dort 50%, Kevon Looney 50%
+  OVR 70.6 after the recipe -> 76.0 at SF (guide 76, band 76-80; the rest of his skills x1.14 above 25)
+  line at 12 min: shot 8.4 FGA a 36 (13.0 is 50); touches the comp's 50, x0.93 for his usage; shot_3_pointer 0.5 of 2.8 FGA; shot_close the twos 82% close, 18% mid-range, as the comp's
+  archetype: wanted Physical Finisher | the draft reads 2-Way Physical Slasher | the Sheet's row reads Physical Paint Scorer
+  the Sheet's row as it is: OVR 76.2 at SF
+
+Leek
+  A pure highlight chaser: his own baskets, off isolations or drives that end in hard finishes at the rim, deep threes and pull-ups. An acceptable passer, below average for his position; very inefficient for the difficulty; nearly a non-factor on defence. Extremely quick and athletic.
+  comps: Anfernee Simons 70%, Jordan Poole 30%
+  OVR 64.0 after the recipe -> 75.0 at PG (guide 75, band 75-79; the rest of his skills x1.77 above 25)
+  line at 22 min: shot 17.2 FGA a 36 (13.0 is 50); touches the comp's 49, x0.97 for his usage; shot_3_pointer 4.1 of 10.5 FGA; shot_close the twos 51% close, 49% mid-range, as the comp's
+  archetype: wanted Microwave Scorer | the draft reads Athletic Slasher | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 46.7 at PG
+
+Rhino
+  A raw rookie drafted for his physicals: immensely strong and mobile, but too poor a ball-handler to slash. Sets hard screens and finishes with power; not yet an on-ball defender, strong enough for the odd block, a force on the boards. (The user: athleticism mid-80s to low 90s, strength over 100.)
+  comps: Isaiah Stewart 100%
+  OVR 78.0 after the recipe -> 74.0 at PF (guide 70, band 70-74; the rest of his skills x0.89 above 25)
+  line at 8 min: shot 5.4 FGA a 36 (13.0 is 50); touches the comp's 47, x0.88 for his usage; shot_3_pointer 0.1 of 1.2 FGA; shot_close the twos 99% close, 1% mid-range, as the comp's
+  archetype: wanted Freight Train | the draft reads Play-Finishing Rim Protector | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 57.8 at PF
+
+THE BEARS' SEASON (season.py's games, 3 passes), per game
+                                  MIN   PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA   FG%   3P%
+  Leek                guide        22  11.3   1.3   3.3   0.8   0.3   4.0  10.5   4.1   2.2  39.4  32.9
+                      Sheet      24.0   7.8   3.0   1.1   0.6   0.2   1.3   8.2   3.6   0.8  38.6  22.7
+                      draft      24.2  12.9   3.0   3.9   0.5   0.2   1.9  12.1   5.4   1.6  41.6  31.3
+  Sarangi II          guide         0  18.3   1.9   2.8   0.4   0.1   3.7  17.7   7.3   3.1  38.2  33.8
+                      Sheet      36.3  19.1   2.1   3.0   0.8   0.1   3.8  16.8   8.0   2.8  42.1  34.7
+                      draft      36.8  21.0   1.8   3.3   0.7   0.1   3.9  18.8   8.9   3.5  40.4  34.7
+  Jerry               guide        45  30.2  12.2  10.7   3.4   0.8   3.4  21.2   8.9   5.0  52.7  40.8
+                      Sheet      44.4  35.1  16.4  14.7   5.7   0.6   4.4  25.6  10.5   6.8  48.8  42.1
+                      draft      44.2  30.3  13.9  10.7   3.6   0.5   3.4  23.2   9.4   4.8  48.4  40.9
+  Ollie & Louie       guide        34   9.7   5.8   2.5   2.2   1.7   2.2   7.6   2.9   1.7  48.1  36.2
+                      Sheet      35.3  10.9   4.6   1.5   0.9   0.3   1.8  10.4   4.7   1.5  41.5  25.1
+                      draft      35.2  10.3   4.6   2.1   2.2   1.1   1.1   7.7   3.5   1.4  50.7  39.3
+  Jack Skellington    guide        38  27.3   8.3   5.4   1.3   4.6   3.2  18.2   8.3   7.8  48.4  39.1
+                      Sheet      38.1  31.9   9.4   6.6   1.5   4.3   3.1  20.3  11.1   6.8  52.5  44.6
+                      draft      37.8  29.8  10.6   5.7   1.5   4.7   2.9  20.0  10.6   6.4  50.8  39.1
+  Rhino               guide         8   1.3   2.0   0.7   0.4   0.8   1.1   1.2   0.1   0.4  48.3  12.2
+                      Sheet       8.2   1.3   1.2   0.3   0.2   0.1   0.5   1.3   0.1   0.4  41.0  23.5
+                      draft       8.2   2.3   1.5   0.2   0.1   0.5   0.5   1.8   0.4   0.6  56.4  29.8
+  Kyogre              guide        24   9.2  11.2   4.1   1.4   1.0   1.6   6.7   1.3   1.9  55.2  32.7
+                      Sheet      25.2  12.9   9.4   2.0   1.5   1.4   1.1   9.3   2.3   2.1  55.8  38.3
+                      draft      25.3  10.6  10.2   2.3   1.5   0.8   1.0   7.4   2.0   2.3  55.3  35.9
+  Chocolate           guide        19   8.1  10.5   3.3   0.9   2.3   1.5   5.0   0.1   1.3  72.1  10.7
+                      Sheet      18.8   5.0   6.9   0.7   0.3   0.9   0.5   3.8   0.1   0.7  59.0  30.0
+                      draft      18.4   7.0   7.7   1.0   0.3   1.1   0.8   5.1   0.3   1.5  59.5  19.1
+  Narwhee             guide         8   4.6   0.8   3.9   0.7   0.2   1.4   3.6   2.1   0.8  43.8  38.1
+                      Sheet       9.2   4.1   0.4   2.2   0.6   0.0   0.5   3.1   1.7   0.8  45.1  35.9
+                      draft       9.4   4.2   0.8   1.1   0.5   0.1   0.5   2.6   1.3   1.0  52.2  39.0
+  Stego               guide         8   3.3   2.6   0.9   0.6   0.7   1.0   2.8   0.5   0.7  47.7  26.1
+                      Sheet       7.9   2.9   2.0   0.3   0.3   0.1   0.3   2.5   0.9   0.3  49.1  27.6
+                      draft       7.9   2.9   2.1   0.5   0.4   0.2   0.3   2.3   0.7   0.3  52.3  31.8
+  Sheet: 50-28, 129.0 - 115.2
+  draft: 51-27, 128.9 - 113.9
+
+  SHARE OF THE TEAM'S TOTAL, %
+                                  PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA
+  team total          guide     123.3  56.6  37.6  12.1  12.5  23.1  94.5  35.6  24.9
+                      Sheet     129.0  53.9  32.1  12.3   7.9  16.8  99.6  42.6  22.7
+                      draft     128.9  54.5  30.6  11.1   9.0  15.9  99.0  42.0  23.0
+  Leek                guide       9.2   2.3   8.8   6.6   2.4  17.3  11.1  11.5   8.8
+                      Sheet       6.1   5.6   3.3   4.9   2.9   7.6   8.2   8.5   3.7
+                      draft      10.0   5.5  12.7   4.3   2.3  12.3  12.2  12.9   6.8
+  Sarangi II          guide      14.8   3.4   7.4   3.3   0.8  16.0  18.7  20.5  12.4
+                      Sheet      14.8   3.8   9.5   6.6   1.6  22.7  16.9  18.7  12.5
+                      draft      16.3   3.3  10.7   6.1   1.1  24.3  18.9  21.3  15.4
+  Jerry               guide      24.5  21.6  28.5  28.1   6.4  14.7  22.4  25.0  20.1
+                      Sheet      27.2  30.4  45.8  46.6   7.0  26.2  25.7  24.7  29.8
+                      draft      23.5  25.5  35.0  32.7   5.8  21.4  23.4  22.4  20.8
+  Ollie & Louie       guide       7.9  10.2   6.6  18.2  13.6   9.5   8.0   8.1   6.8
+                      Sheet       8.5   8.6   4.6   7.4   3.2  10.5  10.4  11.1   6.5
+                      draft       8.0   8.4   6.9  19.8  12.6   6.8   7.8   8.3   6.1
+  Jack Skellington    guide      22.1  14.7  14.4  10.7  36.8  13.9  19.3  23.3  31.3
+                      Sheet      24.7  17.4  20.7  12.4  54.8  18.5  20.4  26.0  29.8
+                      draft      23.1  19.4  18.5  13.9  51.9  18.1  20.2  25.2  27.9
+  Rhino               guide       1.1   3.5   1.9   3.3   6.4   4.8   1.3   0.3   1.6
+                      Sheet       1.0   2.2   0.8   1.4   1.1   2.7   1.3   0.3   2.0
+                      draft       1.8   2.7   0.8   0.8   5.7   3.0   1.8   0.9   2.5
+  Kyogre              guide       7.5  19.8  10.9  11.6   8.0   6.9   7.1   3.7   7.6
+                      Sheet      10.0  17.4   6.2  12.5  17.6   6.3   9.3   5.4   9.2
+                      draft       8.2  18.7   7.7  13.5   9.0   6.4   7.4   4.8  10.1
+  Chocolate           guide       6.6  18.6   8.8   7.4  18.4   6.5   5.3   0.3   5.2
+                      Sheet       3.8  12.9   2.1   2.6  11.4   2.8   3.8   0.2   3.2
+                      draft       5.4  14.1   3.4   3.1  12.0   4.9   5.1   0.7   6.4
+  Narwhee             guide       3.7   1.4  10.4   5.8   1.6   6.1   3.8   5.9   3.2
+                      Sheet       3.2   0.7   7.0   4.9   0.2   3.1   3.1   4.0   3.4
+                      draft       3.2   1.5   3.7   4.1   0.6   3.2   2.6   3.1   4.5
+  Stego               guide       2.7   4.6   2.4   5.0   5.6   4.3   3.0   1.4   2.8
+                      Sheet       2.2   3.6   1.0   2.5   1.5   1.5   2.5   2.1   1.2
+                      draft       2.3   3.8   1.7   3.4   2.7   1.8   2.4   1.6   1.3
+
+  ADVANCED SCORE (per game, and per 36 minutes) AGAINST THE GUIDE'S OVR, ranked in the team
+                        OVR  rank    Sheet ADV    /36  rank    draft ADV    /36  rank
+  Jerry                  97     1         9.74   7.89     1         8.11   6.61     1
+  Jack Skellington       96     2         6.83   6.45     2         6.66   6.34     2
+  Chocolate              83     3         1.97   3.77     6         1.96   3.83     9
+  Ollie & Louie          82     4         1.94   1.98     9         3.80   3.88     7
+  Kyogre                 81     5         3.97   5.66     4         3.44   4.88     5
+  Sarangi II             76     6         1.85   1.84    10         1.99   1.95    10
+  Narwhee                76     7         1.55   6.08     3         1.39   5.36     4
+  Stego                  76     8         1.10   5.02     5         1.36   6.16     3
+  Leek                   75     9         1.49   2.24     8         2.59   3.86     8
+  Rhino                  74    10         0.70   3.10     7         0.94   4.10     6
+  Sheet, its parts per 36:      offensive    scoring  playmakin  defensive  reboundin
+  Jerry                                   7.40       6.34       7.95       5.06       6.88
+  Jack Skellington                        6.23       7.12       2.90       4.88       4.53
+  Chocolate                               2.55       2.36       3.37       4.42       7.51
+  Ollie & Louie                           1.17       1.54       0.62       3.70       2.72
+  Kyogre                                  3.71       4.07       2.65       7.33       7.67
+  Sarangi II                              2.14       3.55      -1.03       1.50       1.33
+  Narwhee                                 6.65       4.63      11.52       8.93       1.87
+  Stego                                   4.56       3.76       7.78       8.61       6.21
+  Leek                                    1.31       1.48       1.46       4.93       2.88
+  Rhino                                   2.70       2.00       6.15       7.84       4.23
+  draft, its parts per 36:      offensive    scoring  playmakin  defensive  reboundin
+  Jerry                                   6.03       5.34       6.20       4.70       6.05
+  Jack Skellington                        5.57       6.29       2.81       5.78       5.24
+  Chocolate                               3.24       3.07       3.83       2.22       8.34
+  Ollie & Louie                           2.16       2.29       1.83       8.07       2.59
+  Kyogre                                  3.52       3.30       3.78       4.64       8.13
+  Sarangi II                              2.40       3.85      -0.94       1.36       1.09
+  Narwhee                                 5.61       5.00       7.62       8.41       2.76
+  Stego                                   4.98       3.91       8.63      11.22       6.74
+  Leek                                    3.77       3.57       3.98       4.45       2.41
+  Rhino                                   3.61       3.19       6.16       8.22       5.31
+
+Jerry: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area  6.1 at 66.1% | paint  5.0 at 46.7% | short mid  3.7 at 48.8% | long mid  5.2 at 42.0% | three  9.0 at 41.5%
+    closest defender: 0-2 ft  4.4 at 46.5% | 2-4  9.9 at 50.4% | 4-6  5.3 at 48.8% | 6+  5.9 at 48.1%
+    how: driving  6.2 at 58.8% | standing  1.3 at 56.5% | off the dribble  6.9 at 38.3% | catch and shoot  7.6 at 44.6% | putback  1.8 at 58.1%
+    turnovers 4.4: bad passes 2.75, lost balls 0.94 | passes 95, touches 130
+  draft
+    zone: restricted area  5.9 at 65.9% | paint  4.2 at 44.3% | short mid  3.2 at 47.0% | long mid  4.7 at 42.6% | three  7.9 at 40.6%
+    closest defender: 0-2 ft  3.9 at 47.9% | 2-4  8.7 at 50.0% | 4-6  5.1 at 47.2% | 6+  5.4 at 47.6%
+    how: driving  5.8 at 57.4% | standing  1.1 at 58.2% | off the dribble  6.1 at 39.0% | catch and shoot  6.8 at 42.7% | putback  1.6 at 55.9%
+    turnovers 3.4: bad passes 1.90, lost balls 0.82 | passes 75, touches 105
+
+Jack Skellington: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area  4.8 at 74.6% | paint  2.4 at 53.1% | short mid  1.8 at 50.4% | long mid  2.6 at 46.5% | three  8.6 at 44.9%
+    closest defender: 0-2 ft  1.9 at 54.1% | 2-4  5.7 at 55.2% | 4-6  6.0 at 49.3% | 6+  6.7 at 52.6%
+    how: driving  3.4 at 65.4% | standing  1.1 at 58.7% | off the dribble  4.5 at 44.3% | catch and shoot  8.6 at 46.7% | putback  1.0 at 52.2%
+    turnovers 3.1: bad passes 1.82, lost balls 0.47 | passes 59, touches 86
+  draft
+    zone: restricted area  4.9 at 77.5% | paint  2.2 at 49.5% | short mid  1.8 at 48.0% | long mid  2.7 at 49.8% | three  8.5 at 38.8%
+    closest defender: 0-2 ft  1.8 at 58.2% | 2-4  5.5 at 56.7% | 4-6  5.4 at 47.3% | 6+  7.2 at 47.2%
+    how: driving  3.3 at 66.3% | standing  1.4 at 62.0% | off the dribble  4.1 at 42.5% | catch and shoot  8.3 at 41.1% | putback  1.2 at 58.2%
+    turnovers 2.9: bad passes 1.43, lost balls 0.47 | passes 54, touches 81
+
+Sarangi II: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area  2.5 at 61.5% | paint  2.4 at 51.1% | short mid  1.6 at 52.6% | long mid  4.7 at 40.8% | three  5.3 at 33.5%
+    closest defender: 0-2 ft  2.2 at 40.1% | 2-4  5.1 at 44.2% | 4-6  4.1 at 42.1% | 6+  5.5 at 41.0%
+    how: driving  2.2 at 53.7% | standing  0.5 at 52.4% | off the dribble  6.2 at 38.7% | catch and shoot  6.5 at 36.7% | putback  0.3 at 47.4%
+    turnovers 3.8: bad passes 2.00, lost balls 1.30 | passes 47, touches 70
+  draft
+    zone: restricted area  2.5 at 57.3% | paint  2.7 at 43.1% | short mid  1.4 at 44.9% | long mid  5.9 at 40.7% | three  6.4 at 33.5%
+    closest defender: 0-2 ft  2.2 at 37.7% | 2-4  6.5 at 42.3% | 4-6  4.8 at 40.2% | 6+  5.2 at 39.3%
+    how: driving  3.0 at 51.2% | standing  0.2 at 42.6% | off the dribble  8.3 at 38.4% | catch and shoot  6.5 at 36.0% | putback  0.1 at 50.0%
+    turnovers 3.9: bad passes 1.87, lost balls 1.50 | passes 43, touches 69

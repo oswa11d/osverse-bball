@@ -1,0 +1,25 @@
+# Caddy gets and renews the HTTPS certificate itself, sends http:// on to
+# https://, serves the static files, and hands every other request to the
+# site. setup_server.sh fills in {DOMAIN}.
+{
+	# Let's Encrypt only: Ubuntu's Caddy (2.6) still tries ZeroSSL after it
+	# by an old sign-up ZeroSSL has retired, which only fills the log.
+	acme_ca https://acme-v02.api.letsencrypt.org/directory
+}
+
+{DOMAIN} {
+	encode zstd gzip
+	# No Cache-Control here: Caddy would stamp it on a 403 or 404 too, and
+	# a browser would keep the error for a week. Browsers check back with
+	# the ETag instead; the stylesheet and script change address when they
+	# change (?v=), and the installed app keeps its own copies.
+	handle_path /static/* {
+		root * /srv/osverse/static
+		file_server
+	}
+	reverse_proxy 127.0.0.1:8001
+}
+
+www.{DOMAIN} {
+	redir https://{DOMAIN}{uri} permanent
+}

@@ -1,0 +1,10 @@
+[Unit]
+Description=Back up the Osverse database every night
+
+[Timer]
+# League time, wherever the server is: 4:30 AM Pacific, long after the last game.
+OnCalendar=*-*-* 04:30:00 America/Los_Angeles
+Persistent=true
+
+[Install]
+WantedBy=timers.target

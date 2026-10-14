@@ -1,0 +1,11 @@
+# Notifications (website/league/push.py), run by osverse-notify.timer: games
+# moved along their broadcasts, then whatever is due sent.
+[Unit]
+Description=Send the Osverse notifications that are due
+
+[Service]
+Type=oneshot
+User=osverse
+WorkingDirectory=/srv/osverse/app/website
+EnvironmentFile=/etc/osverse.env
+ExecStart=/srv/osverse/venv/bin/python manage.py send_notifications

@@ -1,0 +1,8 @@
+# The nightly backup (deploy/backup.sh), run by osverse-backup.timer.
+[Unit]
+Description=Back up the Osverse database
+
+[Service]
+Type=oneshot
+User=osverse
+ExecStart=/usr/bin/bash /srv/osverse/app/deploy/backup.sh

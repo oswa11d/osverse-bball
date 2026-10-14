@@ -1,0 +1,20 @@
+# The Osverse website: gunicorn on the server's own port, Caddy in front.
+# One process with threads, so the site's in-memory state (the season
+# snapshot being rebuilt, the games' clock) is shared by every request.
+[Unit]
+Description=Osverse website
+After=network.target
+
+[Service]
+User=osverse
+Group=osverse
+WorkingDirectory=/srv/osverse/app/website
+EnvironmentFile=/etc/osverse.env
+ExecStart=/srv/osverse/venv/bin/gunicorn osverse_site.wsgi:application \
+    --bind 127.0.0.1:8001 --workers 1 --threads 8 --timeout 120 \
+    --access-logfile - --error-logfile -
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

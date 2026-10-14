@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# The server's copy of the repository runs this after every push from the
+# PC (deploy.cmd): the pushed code is put in /srv/osverse/app and the site
+# brought up to it. Its output shows in the PC's terminal.
+set -euo pipefail
+while read -r old new ref; do
+    branch="${ref#refs/heads/}"
+    echo "== putting $branch (${new:0:7}) live"
+    git --git-dir=/srv/osverse/repo.git --work-tree=/srv/osverse/app checkout --quiet -f "$branch"
+    bash /srv/osverse/app/deploy/update.sh
+done
