@@ -1,0 +1,87 @@
+Big Blankie
+  Swiss-army connector and play finisher: scores inside the arc, mid-range and at the rim, much of it off cuts; a very willing, capable passer; stays in front at his position and holds his own inside. Very solid, no real gaps.
+  comps: Trendon Watford 100%
+  OVR 86.9 after the recipe -> 85.0 at SF (guide 81, band 81-85; the rest of his skills x0.94 above 25)
+  line at 26 min: shot 16.9 FGA a 36 (13.0 is 50); touches the comp's 59, x1.33 for his usage; shot_3_pointer 1.8 of 12.2 FGA; shot_close the twos 65% close, 35% mid-range, by the recipe
+  archetype: wanted Connector | the draft reads 2-Way Lengthy Floor General | the Sheet's row reads Lengthy Floor General
+  the Sheet's row as it is: OVR 81.0 at SF
+
+Mega Blankie
+  Does a bit of everything in the paint: finishes, a short jumper (no further), reads to the open man when help comes. Scores most off the pick-and-roll, a lob threat. On defence a mobile, disciplined help defender - length and agility to get a hand on drives; affects more shots than he blocks.
+  comps: Jarrett Allen 60%, Daniel Gafford 40%
+  OVR 82.7 at PF (guide 80, band 80-84): inside it as the recipe made him
+  line at 25 min: shot 13.8 FGA a 36 (13.0 is 50); touches the comp's 52, x1.08 for his usage; shot_3_pointer 0.5 of 9.6 FGA; shot_close the twos 87% close, 13% mid-range, as the comp's
+  archetype: wanted Mobile Inside Big | the draft reads 2-Way Lengthy Post Scorer | the Sheet's row reads 2-Way Lengthy Play Finisher
+  the Sheet's row as it is: OVR 80.0 at PF
+
+Fluffy Blankie
+  A pure paint presence and slow anchor: finishes plays, can bully in the post with his weight and strength, rebounds and blocks. Immensely long and heavy - an oak in the paint.
+  comps: Zach Edey 100%
+  OVR 86.6 after the recipe -> 84.0 at C (guide 80, band 80-84; the rest of his skills x0.82 above 25)
+  line at 25 min: shot 8.6 FGA a 36 (13.0 is 50); touches the comp's 46, x0.93 for his usage; shot_3_pointer 0.0 of 6.0 FGA; shot_close the twos 83% close, 17% mid-range, as the comp's
+  archetype: wanted Power Tower | the draft reads 2-Way Physical Playmaking Big | the Sheet's row reads Glass-Cleaning Rim Protector
+  the Sheet's row as it is: OVR 80.0 at C
+
+Goose Blankie
+  Fluffy's brother in the same role, a little more mobile and less hulking - in when Fluffy's feet are being hunted. Less of a post force or paint sealer; his shots come off offensive boards and dump-offs.
+  comps: Zach Edey 100%
+  OVR 81.2 after the recipe -> 81.0 at C (guide 77, band 77-81; the rest of his skills x0.99 above 25)
+  line at 25 min: shot 6.0 FGA a 36 (13.0 is 50); touches the comp's 46, x0.69 for his usage; shot_3_pointer 0.0 of 4.2 FGA; shot_close the twos 83% close, 17% mid-range, as the comp's
+  archetype: wanted Rim Protector | the draft reads 2-Way Lengthy Playmaking Big | the Sheet's row reads Play-Finishing Rim Protector
+  the Sheet's row as it is: OVR 77.0 at C
+
+Square Blankie
+  The second unit's main scorer, nothing flashy: off the catch or a dribble or two. Effective and decently efficient at all three levels. A willing passer; defends with his length and agility for his size - stays in front, no lockdown.
+  comps: Aaron Wiggins 100%
+  OVR 82.2 at SG (guide 80, band 80-84): inside it as the recipe made him
+  line at 25 min: shot 7.3 FGA a 36 (13.0 is 50); touches the comp's 42, x0.78 for his usage; shot_3_pointer 2.1 of 5.1 FGA; shot_close the twos 60% close, 40% mid-range, by the recipe
+  archetype: wanted 3-Level Scorer | the draft reads Lengthy Inside-the-Arc Scorer | the Sheet's row reads Lengthy Inside-the-Arc Scorer
+  the Sheet's row as it is: OVR 80.0 at SG
+
+Halloween Blankie
+  Creates for himself and, by it, for others: an above-average handle and good agility get him to his spots; scores in the mid-range or drives to finish, kicks when the defence collapses. Can space the floor; brings rare pace. Solid defence, mostly length - not instinctive, but disciplined.
+  comps: Cade Cunningham 100%
+  OVR 92.0 after the recipe -> 79.0 at SF (guide 75, band 75-79; the rest of his skills x0.74 above 25)
+  line at 15 min: shot 11.3 FGA a 36 (13.0 is 50); touches the comp's 58, x0.67 for his usage; shot_3_pointer 1.4 of 4.7 FGA; shot_close the twos 55% close, 45% mid-range, by the recipe
+  archetype: wanted Versatile Big Guard | the draft reads Inside-the-Arc Scorer | the Sheet's row reads Play Finisher
+  the Sheet's row as it is: OVR 75.0 at SF
+
+Rich Blankie
+  Halloween's thinner, quicker counterpart: a more dynamic scorer and ball-handler, a little less composed; prefers scoring to connecting though he can pass. A below-average defender without his teammates' length, but quick into the passing lanes.
+  comps: Tyrese Haliburton 100%
+  OVR 87.3 after the recipe -> 79.0 at PG (guide 75, band 75-79; the rest of his skills x0.82 above 25)
+  line at 15 min: shot 9.6 FGA a 36 (13.0 is 50); touches from his line alone (no comp with a season); shot_3_pointer 1.1 of 4.0 FGA; shot_close the twos 65% close, 35% mid-range, as the comp's
+  archetype: wanted Speedy Floor Runner | the draft reads Shot Creator | the Sheet's row reads Shot Creator
+  the Sheet's row as it is: OVR 75.0 at PG
+
+THE BLOBS' SEASON (season.py's games, 3 passes), per game
+                                  MIN   PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA   FG%   3P%
+  Blankie             guide        48  18.3  17.4  18.1   7.3   5.4   1.2  10.2   1.2   1.1  81.3  53.2
+                      Sheet      47.5  22.1  20.0  23.4   7.8   5.1   3.4  15.7   2.2   4.0  55.4  35.4
+                      draft      47.5  22.2  20.8  23.6   8.3   4.8   3.6  16.0   2.3   3.9  54.8  35.3
+  Ultra Blankie       guide        36  26.9   3.4   3.3   1.4   1.1   3.6  20.0   7.7   7.3  45.2  36.9
+                      Sheet      36.9  34.0   2.7   3.1   1.4   0.5   4.1  22.3  10.2   8.2  51.8  41.5
+                      draft      37.0  33.7   2.9   3.3   1.5   0.5   4.2  22.1   9.8   7.9  52.6  40.1
+  Big Blankie         guide        26  16.2   6.1   6.2   1.1   1.1   2.2  12.2   1.8   2.3  56.3  37.1
+                      Sheet      26.0  16.2   3.6   1.9   0.6   0.5   1.3  12.5   2.7   2.5  53.8  26.8
+                      draft      26.1  17.2   3.8   2.0   0.8   0.8   1.0  12.8   2.6   2.8  55.4  32.5
+  Mega Blankie        guide        25  12.3   6.9   2.7   0.8   1.7   1.6   9.6   0.5   1.4  58.7  13.4
+                      Sheet      25.4  15.0   5.6   0.9   0.9   0.9   1.1  10.3   0.9   2.2  64.0  18.2
+                      draft      25.0  14.8   5.7   0.7   0.9   0.9   1.1  10.0   0.8   2.4  64.7  21.0
+  Fluffy Blankie      guide        25   9.2  10.3   2.2   0.6   2.8   2.2   6.0   0.0   1.8  68.4   0.0
+                      Sheet      25.3   7.5   6.8   0.7   0.4   1.3   1.2   5.9   0.0   1.2  58.4   0.0
+                      draft      25.4   8.0   6.7   0.6   0.7   1.5   0.9   6.0   0.0   1.7  58.3  20.0
+  Square Blankie      guide        25   6.8   2.2   1.8   0.9   0.6   2.1   5.1   2.1   1.1  50.2  37.9
+                      Sheet      25.4  10.1   2.6   1.6   0.8   0.3   1.5   7.5   3.6   1.3  50.7  39.5
+                      draft      25.1  10.3   2.6   1.5   0.7   0.3   1.4   7.4   3.6   1.2  53.7  39.3
+  Rich Blankie        guide        15   4.7   1.2   1.8   0.6   0.6   1.6   4.0   1.1   0.8  46.5  34.1
+                      Sheet      14.2   7.1   1.0   1.4   0.7   0.1   1.0   5.2   2.0   1.0  53.8  37.7
+                      draft      14.5   7.1   1.1   1.5   0.8   0.1   0.9   5.3   1.9   1.0  52.0  41.4
+  Goose Blankie       guide        25   5.3   4.6   1.3   0.7   1.5   1.2   4.2   0.0   1.2  54.8   0.0
+                      Sheet      25.3   6.4   4.9   0.5   0.6   1.2   0.7   4.7   0.0   1.0  61.3   0.0
+                      draft      25.1   6.6   5.6   0.5   0.7   1.3   0.7   4.7   0.0   1.2  62.7  50.0
+  Halloween Blankie   guide        15   5.4   2.2   2.7   0.8   0.5   2.1   4.7   1.4   0.9  44.7  37.8
+                      Sheet      14.3   4.8   1.5   0.3   0.4   0.2   0.4   4.0   1.6   0.6  48.5  31.2
+                      draft      14.6   6.2   1.4   0.8   0.4   0.1   0.8   4.7   1.9   1.0  49.7  36.2
+  Sheet: 66-12, 123.3 - 94.2
+  draft: 70-8, 126.1 - 91.5

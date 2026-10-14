@@ -1,0 +1,31 @@
+Name,column,Sheet,draft
+Blankie,draw_foul,59,35
+Blankie,shot_confidence,49,30
+Blankie,shot_close,55,68
+Blankie,shot_mid_range,33,20
+Blankie,shot_mid_contested,5,0
+Blankie,tend_floater,79,20
+Blankie,tend_paint_jumper,72,20
+Blankie,shot,40,26
+Blankie,touches,175,150
+Blankie,offensive_rebound_aggression,110,70
+Blankie,reach_for_strip,113,95
+Blankie,block_attempt,90,95
+Blankie,clutch_shot,50,20
+Blankie,clutch_touches,165,150
+Ultra Blankie,driving_layup,92,86
+Ultra Blankie,rim_craftiness,91,78
+Ultra Blankie,draw_foul,87,82
+Ultra Blankie,mid_range_jumper,87,84
+Ultra Blankie,off_dribble_mid_range_jumper,87,84
+Ultra Blankie,three_pt_jumper,84,80
+Ultra Blankie,off_dribble_three_pt_jumper,86,82
+Ultra Blankie,catch_and_shoot_three_pt_jumper,81,77
+Ultra Blankie,shot_selection,59,45
+Ultra Blankie,shot_confidence,92,99
+Ultra Blankie,tend_driving_dunk,14,22.0
+Ultra Blankie,driving_aggressiveness,33,60
+Ultra Blankie,shot,88,78
+Ultra Blankie,clutch_shot,88,78
+Mega Blankie,tend_driving_dunk,21,21.2
+Mega Blankie,tend_standing_dunk,39,39.4

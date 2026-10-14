@@ -1,0 +1,188 @@
+Libo
+  A supreme-IQ floor general: the best read at any moment, extremely few turnovers. A capable handler who gets to his spots - mid-range, floater range, the three as a second weapon - in the flow of the offence, bolting through the defence to the elbow. Tiny (5'10", +4), so shot defence is hard; smart, quick-twitch, enough hustle not to be a liability; plucks lazy passes and handles, timely stops. Unfazeable.
+  base: his own row as the Sheet has it
+  OVR 109.7 at PG (no target)
+  archetype: wanted High IQ Floor General | the draft reads High IQ Offensive Engine | the Sheet's row reads High IQ Offensive Engine
+  the Sheet's row as it is: OVR 109.7 at PG
+
+Sharky
+  Every tool and the stats hate him: lightning quick for his size, jumps out of the gym, strong as an ox - poor body control, shies from heavy contact, yet lives at the line (close to half his finishes end in a whistle); many charges. A slasher and putback machine who loves to isolate and take questionable jumpers (open threes, pull-up mid-range); supreme confidence. NEVER passes - more shots than passes. Low motor on defence, picks his spots; an incredible striker shot-blocker who scares the paint; a terrific glass-cleaner on athleticism, not box-outs.
+  base: his own row; 44 blank cells from Giannis Antetokounmpo 50%, Zion Williamson 50%
+  OVR 80.8 at PF (no target)
+  archetype: wanted Slasher | the draft reads 2-Way Mobile Slasher | the Sheet's row reads 2-Way Mobile Play Finisher
+  the Sheet's row as it is: OVR 80.1 at PF
+
+Lil Sharky
+  Sharky's tunnel vision: sees only his path to the rim - bolting speed and bruising strength for his size to ram through guards and wings, then finishes above the rim. A non-factor passer, purely a scorer; an above-average mid-range jumper is a choice weapon, no range past the arc. Gritty, all heart on defence - an exhausting matchup, lots of fouls; a block or two, a decent force on the boards for a guard.
+  comps: Amen Thompson 60%, Ja Morant 20%, Dillon Brooks 20%
+  OVR 74.5 after the recipe -> 78.0 at SG (guide 78, band 78-82; the rest of his skills x1.08 above 25)
+  line at 33 min: shot 11.8 FGA a 36 (13.0 is 50); touches the comp's 42, x0.74 for his usage; shot_3_pointer 2.7 of 10.8 FGA; shot_close the twos 70% close, 30% mid-range, by the recipe
+  archetype: wanted 2-Way Slasher | the draft reads 2-Way Athletic Inside-the-Arc Scorer | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 49.9 at SG
+
+Snakey
+  A three-level scorer and connector, not ball-dominant: his buckets come off cuts and catch-and-shoot - the off-ball threat an isolation offence needs. Average quickness, below-average strength for a three: slightly above average on defence at best, but a true pest - 'dirty' tactics for a decent number of stocks and to get under skins.
+  comps: Jaden McDaniels 60%, Keegan Murray 40%
+  OVR 83.6 after the recipe -> 81.0 at SF (guide 77, band 77-81; the rest of his skills x0.90 above 25)
+  line at 32 min: shot 9.1 FGA a 36 (13.0 is 50); touches the comp's 46, x0.84 for his usage; shot_3_pointer 3.2 of 8.1 FGA; shot_close the twos 65% close, 35% mid-range, by the recipe
+  archetype: wanted Versatile 3-Level Scorer | the draft reads Shot Creator | the Sheet's row reads Shot Creator
+  the Sheet's row as it is: OVR 57.2 at SF
+
+Don
+  The dirty-work vet behind Sharky: a popper, a putback machine, a brick-wall screener. No longer the superb shot-blocker - length, instincts and gambles on reaches bother loose-handled post players and slashers; agile enough to switch onto handlers, prefers the paint. A better rebounder than the guide shows, but a box-out/clear-the-paint one, leaving Sharky the boards. A 7'3" muscular adonis with a slashing big's frame and mobility; speed and vertical down to the 70s with age.
+  comps: Brook Lopez 40%, Al Horford 30%, Kel'el Ware 30%
+  OVR 81.2 after the recipe -> 80.0 at C (guide 76, band 76-80; the rest of his skills x0.97 above 25)
+  line at 42 min: shot 6.0 FGA a 36 (13.0 is 50); touches the comp's 53, x0.79 for his usage; shot_3_pointer 1.1 of 7.0 FGA; shot_close the twos 70% close, 30% mid-range, by the recipe
+  archetype: wanted Inside-Out Glass-Cleaner | the draft reads 2-Way Unicorn Stretch Big | the Sheet's row reads Playmaking Big
+  the Sheet's row as it is: OVR 60.0 at C
+
+Stingray
+  The team's first captain and 'the Man' - an Edwards-like three-level scorer (mid-range and paint jumpers, acrobatic layups and dunks) and the stopper on aces - now a sparkplug who still gets there the same way: physical drives and a great handle. Level-headed for this team; makes the extra pass. Defence is his best skill now: still makes stars' lives hard, handsy, a lot of strips. No longer the fastest; still explosive, strong for his height.
+  comps: Anthony Edwards 60%, Jrue Holiday 40%
+  OVR 91.9 after the recipe -> 81.0 at SG (guide 77, band 77-81; the rest of his skills x0.75 above 25)
+  line at 26 min: shot 13.0 FGA a 36 (13.0 is 50); touches the comp's 53, x0.75 for his usage; shot_3_pointer 3.1 of 9.4 FGA; shot_close the twos 55% close, 45% mid-range, by the recipe
+  archetype: wanted 2-Way Scoring Machine | the draft reads Slashing Lockdown | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 51.9 at SG
+
+Hammer
+  Libo's only reliable backup: a facilitator who scores downhill on explosiveness, no jump-shooting threat. Quick and aggressive on defence - steals, makes handlers work; his size lets him switch somewhat. A 6'6" guard with a regular tall point's frame, extremely quick and athletic: a slasher and a good glass-cleaner at the one.
+  comps: Dyson Daniels 50%, Josh Giddey 25%, Amen Thompson 25%
+  OVR 77.4 at PG (guide 75, band 75-79): inside it as the recipe made him
+  line at 18 min: shot 8.6 FGA a 36 (13.0 is 50); touches the comp's 50, x0.80 for his usage; shot_3_pointer 1.1 of 4.3 FGA; shot_close the twos 85% close, 15% mid-range, by the recipe
+  archetype: wanted Playmaking Slasher | the draft reads 2-Way Speedy Slasher | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 48.5 at PG
+
+Cubis
+  Role undefined among the egos - here, it can feel, because his friends are. A jack of all trades who excels at nothing; on this team he mostly moves the ball on. Points from play finishing; range to the mid-range, parks at the three but does not shoot it well. Average on defence, rarely gets stocks, guards most positions. Average physically: short for his size, stocky, decently strong.
+  comps: Josh Hart 60%, Kyle Anderson 40%
+  OVR 77.8 at SF (guide 74, band 74-78): inside it as the recipe made him
+  line at 16 min: shot 5.9 FGA a 36 (13.0 is 50); touches the comp's 52, x0.89 for his usage; shot_3_pointer 0.9 of 2.6 FGA; shot_close the twos 70% close, 30% mid-range, by the recipe
+  archetype: wanted Point Forward | the draft reads Slasher | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 52.4 at SF
+
+Sting
+  Stingray's younger brother: much the same physical tools, a defensive force a notch below his brother's. No shot creator: a spot-up shooter who takes great pride in his jumper - almost all his buckets are threes. Unsocial: passes little, plays for his minutes and his percentage, not the team.
+  comps: Matisse Thybulle 50%, Sam Hauser 50%
+  OVR 74.5 at SF (guide 73, band 73-77): inside it as the recipe made him
+  line at 16 min: shot 9.2 FGA a 36 (13.0 is 50); touches the comp's 42, x0.91 for his usage; shot_3_pointer 3.4 of 4.1 FGA; shot_close the twos 50% close, 50% mid-range, by the recipe
+  archetype: wanted 2-Way Sharpshooter | the draft reads Sharpshooter | the Sheet's row reads Shot Creator
+  the Sheet's row as it is: OVR 54.8 at SF
+
+THE SHARKS' SEASON (season.py's games, 3 passes), per game
+                                  MIN   PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA   FG%   3P%
+  Libo                guide        47  22.4   3.6  20.1   2.8   0.3   2.0  14.0   4.8   4.1  57.4  49.4
+                      Sheet      46.7  35.1   4.0  15.8   5.3   0.3   4.1  23.5  10.1   6.8  51.2  44.2
+                      draft      47.0  36.1   3.6  18.3   5.0   0.2   3.0  24.2   8.6   7.2  52.6  43.2
+  Lil Sharky          guide        33  14.7   4.1   1.1   1.6   1.1   3.1  10.8   2.7   4.7  47.8  26.3
+                      Sheet      34.9  11.3   5.9   1.6   0.7   0.3   2.6  11.4   4.8   2.0  38.7  22.1
+                      draft      34.9  13.1   7.5   0.8   1.8   0.7   1.1   9.4   2.6   3.2  53.4  23.7
+  Snakey              guide        32  10.3   3.1   2.0   1.3   0.8   2.3   8.1   3.2   1.7  47.5  38.7
+                      Sheet      35.2  11.0   5.7   1.2   0.7   0.3   1.5  10.7   5.5   1.6  39.2  23.7
+                      draft      34.9  14.2   4.7   1.2   2.0   0.9   1.2  10.1   4.6   1.7  53.9  42.9
+  Sharky              guide        46  40.1  14.2   0.3   1.8   3.8   5.8  24.8   1.7  26.2  49.3  21.3
+                      Sheet      40.8  37.5  13.6   2.9   1.5   2.4   6.7  18.1   3.9  28.3  55.4  22.5
+                      draft      43.9  43.7  14.9   2.3   1.3   4.6   4.8  20.2   2.9  31.3  60.5  28.6
+  Don                 guide        42   9.7  10.3   1.2   1.6   1.3   1.4   7.0   1.1   1.4  59.1  36.1
+                      Sheet      42.7   8.1   6.3   0.9   0.9   0.4   2.0   7.5   2.2   1.9  41.9  22.9
+                      draft      41.5   9.1   7.5   1.6   1.9   1.1   3.7   7.6   2.1   1.6  47.8  37.4
+  Cubis               guide         8   3.2   3.1   3.3   0.4   0.3   2.2   2.6   0.9   0.7  44.8  33.1
+                      Sheet       8.8   2.0   1.6   0.2   0.1   0.1   0.3   2.2   1.3   0.4  32.7  20.4
+                      draft       8.4   2.7   1.3   0.7   0.4   0.1   0.3   2.1   1.0   0.5  46.5  32.0
+  Hammer              guide        12   4.9   2.3   3.6   1.1   0.6   2.6   4.3   1.1   1.0  43.9  33.7
+                      Sheet      13.2   3.8   2.2   0.6   0.3   0.1   0.6   3.7   1.9   0.6  38.1  26.0
+                      draft      12.6   4.9   3.0   1.3   0.8   0.1   0.5   3.6   1.3   1.0  51.6  30.2
+  Sting               guide         4   5.4   1.9   0.9   1.8   0.9   1.9   4.1   3.4   0.5  43.2  42.7
+                      Sheet       3.3   1.0   0.7   0.1   0.1   0.0   0.0   1.1   0.9   0.1  30.4  21.9
+                      draft       3.0   1.7   0.5   0.0   0.2   0.1   0.1   0.9   0.8   0.0  64.6  62.3
+  Stingray            guide        16  13.2   2.5   2.2   1.8   0.7   2.6   9.4   3.1   4.1  46.0  38.3
+                      Sheet      18.1   6.0   3.3   0.9   0.4   0.2   1.2   6.6   3.4   0.8  34.4  22.1
+                      draft      17.6   7.8   1.7   1.2   1.0   0.2   0.9   5.9   2.5   1.4  48.9  34.9
+  Sheet: 13-65, 114.9 - 133.2
+  draft: 55-23, 131.7 - 117.6
+
+  SHARE OF THE TEAM'S TOTAL, %
+                                  PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA
+  team total          guide     123.9  45.1  34.7  14.2   9.8  23.9  85.1  22.0  44.4
+                      Sheet     114.9  42.7  24.2   9.8   4.1  19.0  83.9  33.2  42.2
+                      draft     131.7  44.2  27.3  14.2   7.9  15.5  83.1  25.7  47.8
+  Libo                guide      18.1   8.0  57.9  19.7   3.1   8.4  16.5  21.8   9.2
+                      Sheet      30.5   9.5  65.3  53.5   6.6  21.5  28.1  30.3  16.1
+                      draft      27.4   8.1  67.1  34.9   2.2  19.6  29.1  33.5  15.1
+  Lil Sharky          guide      11.9   9.1   3.2  11.3  11.2  13.0  12.7  12.3  10.6
+                      Sheet       9.9  13.7   6.8   7.1   8.0  13.9  13.5  14.3   4.6
+                      draft      10.0  17.0   2.8  12.7   8.7   7.0  11.3  10.3   6.6
+  Snakey              guide       8.3   6.9   5.8   9.2   8.2   9.6   9.5  14.5   3.8
+                      Sheet       9.6  13.4   5.1   6.8   7.7   7.7  12.7  16.7   3.7
+                      draft      10.8  10.7   4.3  14.0  11.2   7.8  12.1  17.8   3.5
+  Sharky              guide      32.4  31.5   0.9  12.7  38.8  24.3  29.1   7.7  59.0
+                      Sheet      32.7  32.0  11.9  15.5  58.1  35.5  21.6  11.7  67.0
+                      draft      33.2  33.8   8.3   9.4  58.5  31.1  24.3  11.1  65.4
+  Don                 guide       7.8  22.8   3.5  11.3  13.3   5.9   8.2   5.0   3.2
+                      Sheet       7.1  14.8   3.8   8.7  10.4  10.5   8.9   6.6   4.4
+                      draft       6.9  17.1   5.8  13.4  14.5  23.7   9.1   8.4   3.3
+  Cubis               guide       2.6   6.9   9.5   2.8   3.1   9.2   3.1   4.1   1.6
+                      Sheet       1.8   3.7   1.0   1.2   1.3   1.5   2.7   3.9   0.9
+                      draft       2.1   2.8   2.5   2.7   1.1   1.7   2.6   4.0   1.1
+  Hammer              guide       4.0   5.1  10.4   7.7   6.1  10.9   5.1   5.0   2.3
+                      Sheet       3.3   5.2   2.4   3.1   3.0   3.3   4.5   5.7   1.3
+                      draft       3.7   6.8   4.9   5.8   1.5   3.5   4.4   5.0   2.0
+  Sting               guide       4.4   4.2   2.6  12.7   9.2   7.9   4.8  15.5   1.1
+                      Sheet       0.9   1.7   0.3   0.9   0.7   0.2   1.4   2.8   0.3
+                      draft       1.3   1.2   0.1   1.4   1.3   0.4   1.1   3.0   0.1
+  Stingray            guide      10.7   5.5   6.3  12.7   7.1  10.9  11.0  14.1   9.2
+                      Sheet       5.2   7.7   3.7   4.0   4.9   6.1   7.9  10.4   1.9
+                      draft       5.9   3.8   4.6   7.1   2.0   5.8   7.1   9.7   3.0
+
+  ADVANCED SCORE (per game, and per 36 minutes) AGAINST THE GUIDE'S OVR, ranked in the team
+                        OVR  rank    Sheet ADV    /36  rank    draft ADV    /36  rank
+  Libo                   97     1         9.17   7.07     1        10.43   8.00     1
+  Sharky                 95     2         3.51   3.10     2         5.87   4.82     4
+  Lil Sharky             78     3         1.07   1.11     7         3.08   3.17     7
+  Snakey                 77     4         1.59   1.62     6         3.28   3.38     6
+  Stingray               77     5         1.03   2.06     5         2.18   4.47     5
+  Don                    76     6         0.21   0.18     8         2.07   1.80     8
+  Hammer                 75     7         0.94   2.55     4         1.71   4.88     3
+  Cubis                  74     8         0.68   2.79     3         1.22   5.21     2
+  Sting                  73     9            -      -     -            -      -     -
+  Sheet, its parts per 36:      offensive    scoring  playmakin  defensive  reboundin
+  Libo                                    8.66       6.86      10.42       2.53       1.42
+  Sharky                                  2.95       5.95      -4.09       0.25       6.12
+  Lil Sharky                              0.82       1.32       0.10       1.04       3.33
+  Snakey                                  1.38       1.47       1.38       1.53       3.13
+  Stingray                                1.55       1.54       2.35       3.66       3.81
+  Don                                     0.73       1.04       0.32      -2.09       2.86
+  Hammer                                  2.55       2.09       4.46       3.89       3.84
+  Cubis                                   3.06       2.03       6.95       5.14       4.34
+  draft, its parts per 36:      offensive    scoring  playmakin  defensive  reboundin
+  Libo                                    9.42       6.90      12.53       3.99       1.25
+  Sharky                                  4.15       6.73      -2.37       3.04       6.35
+  Lil Sharky                              2.21       2.67       1.14       4.45       3.81
+  Snakey                                  2.89       3.47       1.35       4.29       2.58
+  Stingray                                3.67       3.77       3.59       8.09       2.11
+  Don                                     1.18       1.62       0.38       2.10       3.61
+  Hammer                                  4.28       3.40       6.67       7.16       4.95
+  Cubis                                   5.02       3.71       9.03       9.19       4.05
+
+Libo: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area  4.4 at 71.2% | paint  4.8 at 49.2% | short mid  2.4 at 52.3% | long mid  6.8 at 48.4% | three  9.3 at 44.0%
+    closest defender: 0-2 ft  3.4 at 47.8% | 2-4 13.3 at 51.0% | 4-6  4.0 at 55.0% | 6+  2.8 at 51.9%
+    how: driving  6.6 at 63.7% | standing  0.1 at 57.9% | off the dribble 12.2 at 44.6% | catch and shoot  3.5 at 50.2% | putback  0.0 at 50.0%
+    turnovers 4.1: bad passes 2.71, lost balls 0.61 | passes 121, touches 156
+  draft
+    zone: restricted area  5.1 at 74.8% | paint  5.5 at 49.3% | short mid  2.5 at 50.9% | long mid  7.9 at 48.8% | three  8.0 at 42.4%
+    closest defender: 0-2 ft  3.6 at 49.0% | 2-4 13.4 at 53.3% | 4-6  4.2 at 54.6% | 6+  2.9 at 50.9%
+    how: driving  7.4 at 67.0% | standing  0.1 at 66.7% | off the dribble 12.6 at 44.5% | catch and shoot  3.0 at 50.4% | putback  0.0 at 30.0%
+    turnovers 3.0: bad passes 1.82, lost balls 0.59 | passes 113, touches 147
+
+Sharky: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area  8.0 at 79.9% | paint  4.2 at 47.0% | short mid  3.5 at 49.4% | long mid  2.7 at 37.6% | three  3.6 at 22.1%
+    closest defender: 0-2 ft  4.2 at 61.5% | 2-4  7.6 at 56.2% | 4-6  2.2 at 60.7% | 6+  4.1 at 44.8%
+    how: driving  5.1 at 63.9% | standing  3.0 at 72.2% | off the dribble  4.9 at 36.4% | catch and shoot  4.0 at 49.9% | putback  0.9 at 63.8%
+    turnovers 6.7: bad passes 2.23, lost balls 2.87 | passes 54, touches 93
+  draft
+    zone: restricted area 10.5 at 80.6% | paint  5.1 at 45.7% | short mid  4.0 at 48.8% | long mid  2.9 at 35.1% | three  2.7 at 29.1%
+    closest defender: 0-2 ft  5.7 at 62.1% | 2-4  7.7 at 63.6% | 4-6  2.1 at 66.1% | 6+  4.8 at 51.1%
+    how: driving  5.0 at 66.8% | standing  4.1 at 68.7% | off the dribble  6.0 at 45.5% | catch and shoot  4.1 at 52.4% | putback  1.6 at 65.2%
+    turnovers 4.8: bad passes 1.78, lost balls 2.07 | passes 43, touches 83

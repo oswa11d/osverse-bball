@@ -1,0 +1,773 @@
+Name,column,Sheet,draft
+David Bowie,three_pt_jumper,108,122
+David Bowie,deep_three_pt_jumper,109,129
+David Bowie,contested_three_pt_jumper,101,131
+David Bowie,off_dribble_three_pt_jumper,105,119
+David Bowie,catch_and_shoot_three_pt_jumper,98,112
+David Bowie,defensive_rebound,87,95
+David Bowie,block,84,92
+David Bowie,steal,91,106
+David Bowie,shot_close,31,27
+David Bowie,shot_mid_range,34,27
+David Bowie,shot_3_pointer,35,46
+David Bowie,shot,160,102
+David Bowie,touches,165,75
+David Bowie,bring_up,100,65
+David Bowie,pass_out_frequency,41,20
+David Bowie,drive_and_kick_frequency,44,20
+David Bowie,pass_interception_attempt,52,70
+David Bowie,clutch_shot,160,102
+David Bowie,clutch_touches,165,75
+Super Rabbit Boy,driving_layup,,79
+Super Rabbit Boy,driving_dunk,,85
+Super Rabbit Boy,standing_layup,,49
+Super Rabbit Boy,standing_dunk,,31
+Super Rabbit Boy,dunk_in_traffic,,77
+Super Rabbit Boy,contact_layup,,54
+Super Rabbit Boy,paint_jumper,,84
+Super Rabbit Boy,close_shot_from_post,,57
+Super Rabbit Boy,rim_craftiness,,89
+Super Rabbit Boy,draw_foul,,67
+Super Rabbit Boy,post_control_footwork,,37
+Super Rabbit Boy,putback,,34
+Super Rabbit Boy,floater,,86
+Super Rabbit Boy,rolling,,68
+Super Rabbit Boy,mid_range_jumper,,85
+Super Rabbit Boy,contested_mid_range_jumper,,85
+Super Rabbit Boy,post_fadeaway,,50
+Super Rabbit Boy,off_dribble_mid_range_jumper,,85
+Super Rabbit Boy,mid_range_shot_creation,,85
+Super Rabbit Boy,three_pt_jumper,,79
+Super Rabbit Boy,deep_three_pt_jumper,,79
+Super Rabbit Boy,contested_three_pt_jumper,,79
+Super Rabbit Boy,off_dribble_three_pt_jumper,,79
+Super Rabbit Boy,catch_and_shoot_three_pt_jumper,,79
+Super Rabbit Boy,three_pt_shot_creation,,79
+Super Rabbit Boy,shot_selection,,70
+Super Rabbit Boy,off_ball_movement,,91
+Super Rabbit Boy,shot_confidence,,76
+Super Rabbit Boy,ball_handle,,86
+Super Rabbit Boy,ball_security,,73
+Super Rabbit Boy,pass_vision,,60
+Super Rabbit Boy,pass_accuracy,,81
+Super Rabbit Boy,defensive_rebound,,42
+Super Rabbit Boy,offensive_rebound,,37
+Super Rabbit Boy,boxout_strength,,34
+Super Rabbit Boy,swim_move,,48
+Super Rabbit Boy,interior_shot_defense_strength,,38
+Super Rabbit Boy,interior_shot_deterrence,,38
+Super Rabbit Boy,post_defense,,38
+Super Rabbit Boy,block,,47
+Super Rabbit Boy,perimeter_shot_defense_strength,,69
+Super Rabbit Boy,perimeter_shot_deterrence,,73
+Super Rabbit Boy,perimeter_defense,,67
+Super Rabbit Boy,help_defense_iq,,72
+Super Rabbit Boy,pass_perception,,63
+Super Rabbit Boy,steal,,55
+Super Rabbit Boy,speed,,100
+Super Rabbit Boy,agility,,96
+Super Rabbit Boy,vertical,,88
+Super Rabbit Boy,strength,,40
+Super Rabbit Boy,stamina,,95
+Super Rabbit Boy,reaction_time,,91
+Super Rabbit Boy,hands,,93
+Super Rabbit Boy,shot_close,30,32
+Super Rabbit Boy,shot_mid_range,23,21
+Super Rabbit Boy,shot_mid_off_dribble,,77
+Super Rabbit Boy,shot_mid_off_catch,,9
+Super Rabbit Boy,shot_mid_contested,,52
+Super Rabbit Boy,shot_3_off_dribble,,45
+Super Rabbit Boy,shot_3_off_catch,,54
+Super Rabbit Boy,shot_3_off_screen,,36
+Super Rabbit Boy,shot_3_contested,,37
+Super Rabbit Boy,shot_3_deep,,17
+Super Rabbit Boy,tend_driving_layup,,42
+Super Rabbit Boy,tend_driving_dunk,,5.0
+Super Rabbit Boy,tend_standing_layup,,32
+Super Rabbit Boy,tend_standing_dunk,,18.6
+Super Rabbit Boy,driving_aggressiveness,,20
+Super Rabbit Boy,tend_floater,61,49
+Super Rabbit Boy,tend_paint_jumper,,60
+Super Rabbit Boy,alley_oop_finish,,63
+Super Rabbit Boy,drive_frequency,,75
+Super Rabbit Boy,drive_off_screen,,84
+Super Rabbit Boy,post_up,0,20
+Super Rabbit Boy,post_move,,34
+Super Rabbit Boy,back_down,,34
+Super Rabbit Boy,tend_post_fadeaway,,44
+Super Rabbit Boy,post_face_up,,44
+Super Rabbit Boy,shoot_from_post,,21
+Super Rabbit Boy,shot,46,28
+Super Rabbit Boy,touches,51,64
+Super Rabbit Boy,bring_up,,55
+Super Rabbit Boy,roller_popper,,69
+Super Rabbit Boy,spot_up_frequency,,38
+Super Rabbit Boy,play_handoff,,52
+Super Rabbit Boy,play_off_screen,,23
+Super Rabbit Boy,screener_frequency,,0
+Super Rabbit Boy,cutter_frequency,,12
+Super Rabbit Boy,iso_frequency,,64
+Super Rabbit Boy,iso_confidence,,50
+Super Rabbit Boy,ball_dominance,,81
+Super Rabbit Boy,pass_out_frequency,,60
+Super Rabbit Boy,drive_and_kick_frequency,,65
+Super Rabbit Boy,outlet_pass_frequency,,47
+Super Rabbit Boy,alley_oop_pass,,79
+Super Rabbit Boy,offensive_rebound_aggression,,20
+Super Rabbit Boy,crash_for_board,,25
+Super Rabbit Boy,pressure_ball_handler,,40
+Super Rabbit Boy,reach_for_strip,,55
+Super Rabbit Boy,pass_interception_attempt,,70
+Super Rabbit Boy,draw_charge,0,13
+Super Rabbit Boy,block_attempt,,35
+Super Rabbit Boy,clutch_shot,46,28
+Super Rabbit Boy,clutch_touches,51,64
+Loaf,driving_layup,,77
+Loaf,driving_dunk,,72
+Loaf,standing_layup,,73
+Loaf,standing_dunk,,58
+Loaf,dunk_in_traffic,,72
+Loaf,contact_layup,,75
+Loaf,paint_jumper,,88
+Loaf,close_shot_from_post,,75
+Loaf,rim_craftiness,,74
+Loaf,draw_foul,,65
+Loaf,post_control_footwork,,84
+Loaf,putback,,48
+Loaf,floater,,82
+Loaf,rolling,,73
+Loaf,mid_range_jumper,,86
+Loaf,contested_mid_range_jumper,,85
+Loaf,post_fadeaway,,70
+Loaf,off_dribble_mid_range_jumper,,88
+Loaf,mid_range_shot_creation,,85
+Loaf,three_pt_jumper,,79
+Loaf,deep_three_pt_jumper,,81
+Loaf,contested_three_pt_jumper,,81
+Loaf,off_dribble_three_pt_jumper,,79
+Loaf,catch_and_shoot_three_pt_jumper,,79
+Loaf,three_pt_shot_creation,,81
+Loaf,shot_selection,,74
+Loaf,off_ball_movement,,77
+Loaf,shot_confidence,,78
+Loaf,ball_handle,,78
+Loaf,ball_security,,71
+Loaf,pass_vision,,67
+Loaf,pass_accuracy,,76
+Loaf,defensive_rebound,,61
+Loaf,offensive_rebound,,39
+Loaf,boxout_strength,,69
+Loaf,swim_move,,55
+Loaf,interior_shot_defense_strength,,67
+Loaf,interior_shot_deterrence,,67
+Loaf,post_defense,,67
+Loaf,block,,54
+Loaf,perimeter_shot_defense_strength,,70
+Loaf,perimeter_shot_deterrence,,70
+Loaf,perimeter_defense,,73
+Loaf,help_defense_iq,,68
+Loaf,pass_perception,,77
+Loaf,steal,,55
+Loaf,speed,,74
+Loaf,agility,,69
+Loaf,vertical,,75
+Loaf,strength,,79
+Loaf,stamina,,90
+Loaf,reaction_time,,69
+Loaf,hands,,90
+Loaf,shot_close,41,32
+Loaf,shot_mid_range,18,27
+Loaf,shot_mid_off_dribble,,60
+Loaf,shot_mid_off_catch,,8
+Loaf,shot_mid_contested,,86
+Loaf,shot_3_off_dribble,,16
+Loaf,shot_3_off_catch,,81
+Loaf,shot_3_off_screen,,16
+Loaf,shot_3_contested,,48
+Loaf,shot_3_deep,,0
+Loaf,tend_driving_layup,,39
+Loaf,tend_driving_dunk,,2.7
+Loaf,tend_standing_layup,,42
+Loaf,tend_standing_dunk,,18.6
+Loaf,driving_aggressiveness,,68
+Loaf,tend_floater,46,76
+Loaf,tend_paint_jumper,,79
+Loaf,alley_oop_finish,,43
+Loaf,drive_frequency,,35
+Loaf,drive_off_screen,,62
+Loaf,post_up,,98
+Loaf,post_move,,91
+Loaf,back_down,,68
+Loaf,tend_post_fadeaway,,72
+Loaf,post_face_up,,89
+Loaf,shoot_from_post,,60
+Loaf,shot,51,64
+Loaf,touches,50,49
+Loaf,bring_up,,27
+Loaf,roller_popper,,76
+Loaf,spot_up_frequency,,70
+Loaf,play_handoff,,37
+Loaf,play_off_screen,,43
+Loaf,screener_frequency,,18
+Loaf,cutter_frequency,,55
+Loaf,iso_frequency,,20
+Loaf,iso_confidence,,40
+Loaf,ball_dominance,,30
+Loaf,pass_out_frequency,,48
+Loaf,drive_and_kick_frequency,,49
+Loaf,outlet_pass_frequency,,72
+Loaf,alley_oop_pass,,62
+Loaf,offensive_rebound_aggression,,33
+Loaf,crash_for_board,,66
+Loaf,pressure_ball_handler,,44
+Loaf,reach_for_strip,,48
+Loaf,pass_interception_attempt,,44
+Loaf,draw_charge,0,18
+Loaf,block_attempt,,36
+Loaf,clutch_shot,51,64
+Loaf,clutch_touches,50,49
+Tusky,driving_layup,,63
+Tusky,driving_dunk,,64
+Tusky,standing_layup,,64
+Tusky,standing_dunk,,55
+Tusky,dunk_in_traffic,,64
+Tusky,contact_layup,,63
+Tusky,paint_jumper,,63
+Tusky,close_shot_from_post,,64
+Tusky,rim_craftiness,,64
+Tusky,draw_foul,,49
+Tusky,post_control_footwork,,65
+Tusky,putback,,59
+Tusky,floater,,63
+Tusky,rolling,,64
+Tusky,mid_range_jumper,,51
+Tusky,contested_mid_range_jumper,,51
+Tusky,post_fadeaway,,64
+Tusky,off_dribble_mid_range_jumper,,51
+Tusky,mid_range_shot_creation,,51
+Tusky,three_pt_jumper,,70
+Tusky,deep_three_pt_jumper,,76
+Tusky,contested_three_pt_jumper,,76
+Tusky,off_dribble_three_pt_jumper,,70
+Tusky,catch_and_shoot_three_pt_jumper,,70
+Tusky,three_pt_shot_creation,,76
+Tusky,shot_selection,,70
+Tusky,off_ball_movement,,72
+Tusky,shot_confidence,,77
+Tusky,ball_handle,,86
+Tusky,ball_security,,77
+Tusky,pass_vision,,54
+Tusky,pass_accuracy,,82
+Tusky,defensive_rebound,,67
+Tusky,offensive_rebound,,67
+Tusky,boxout_strength,,67
+Tusky,swim_move,,67
+Tusky,interior_shot_defense_strength,,88
+Tusky,interior_shot_deterrence,,88
+Tusky,post_defense,,96
+Tusky,block,,58
+Tusky,perimeter_shot_defense_strength,,94
+Tusky,perimeter_shot_deterrence,,94
+Tusky,perimeter_defense,,99
+Tusky,help_defense_iq,,91
+Tusky,pass_perception,,66
+Tusky,steal,,73
+Tusky,speed,,68
+Tusky,agility,,72
+Tusky,vertical,,74
+Tusky,strength,,78
+Tusky,stamina,,85
+Tusky,reaction_time,,72
+Tusky,hands,,87
+Tusky,shot_mid_off_dribble,,73
+Tusky,shot_mid_off_catch,,6
+Tusky,shot_mid_contested,,44
+Tusky,shot_3_off_dribble,,14
+Tusky,shot_3_off_catch,,69
+Tusky,shot_3_off_screen,,42
+Tusky,shot_3_contested,,25
+Tusky,shot_3_deep,,0
+Tusky,tend_driving_layup,,69
+Tusky,tend_driving_dunk,,3.4
+Tusky,tend_standing_layup,,59
+Tusky,tend_standing_dunk,,12.6
+Tusky,driving_aggressiveness,,63
+Tusky,tend_floater,40,42
+Tusky,tend_paint_jumper,,47
+Tusky,alley_oop_finish,,48
+Tusky,drive_frequency,,25
+Tusky,drive_off_screen,,47
+Tusky,post_up,,54
+Tusky,post_move,,65
+Tusky,back_down,,66
+Tusky,tend_post_fadeaway,,64
+Tusky,post_face_up,,64
+Tusky,shoot_from_post,,57
+Tusky,shot,39,32
+Tusky,touches,38,32
+Tusky,bring_up,,32
+Tusky,roller_popper,,15
+Tusky,spot_up_frequency,,55
+Tusky,play_handoff,,0
+Tusky,play_off_screen,,0
+Tusky,screener_frequency,,80
+Tusky,cutter_frequency,,55
+Tusky,iso_confidence,,35
+Tusky,ball_dominance,,20
+Tusky,pass_out_frequency,,44
+Tusky,drive_and_kick_frequency,,46
+Tusky,outlet_pass_frequency,,60
+Tusky,alley_oop_pass,,49
+Tusky,offensive_rebound_aggression,,40
+Tusky,crash_for_board,,35
+Tusky,pressure_ball_handler,,49
+Tusky,reach_for_strip,,52
+Tusky,pass_interception_attempt,,49
+Tusky,draw_charge,0,80
+Tusky,block_attempt,,33
+Tusky,clutch_shot,39,32
+Tusky,clutch_touches,38,32
+Spots,driving_layup,74,94
+Spots,driving_dunk,86,98
+Spots,standing_layup,95,120
+Spots,standing_dunk,95,115
+Spots,paint_jumper,91,101
+Spots,putback,88,103
+Spots,three_pt_jumper,86,78
+Spots,off_dribble_three_pt_jumper,78,70
+Spots,catch_and_shoot_three_pt_jumper,90,82
+Spots,defensive_rebound,95,115
+Spots,offensive_rebound,94,112
+Spots,boxout_strength,87,99
+Spots,block,93,118
+Spots,shot_close,66,80
+Spots,shot_mid_range,5,2
+Spots,shot_3_pointer,29,18
+Spots,tend_standing_dunk,40,90.0
+Spots,tend_floater,60,0
+Spots,tend_paint_jumper,40,0
+Spots,drive_frequency,34,15
+Spots,post_up,51,8
+Spots,shot,65,36
+Spots,touches,60,55
+Spots,bring_up,14,5
+Spots,roller_popper,37,30
+Spots,iso_frequency,15,0
+Spots,iso_confidence,41,30
+Spots,ball_dominance,26,15
+Spots,pass_out_frequency,43,70
+Spots,offensive_rebound_aggression,79,90
+Spots,crash_for_board,85,92
+Spots,block_attempt,84,95
+Spots,clutch_shot,65,36
+Spots,clutch_touches,60,55
+Broccoli,driving_layup,76,70
+Broccoli,driving_dunk,76,71
+Broccoli,standing_layup,77,63
+Broccoli,standing_dunk,74,67
+Broccoli,dunk_in_traffic,67,71
+Broccoli,contact_layup,73,68
+Broccoli,paint_jumper,84,65
+Broccoli,close_shot_from_post,72,65
+Broccoli,rim_craftiness,58,65
+Broccoli,draw_foul,60,70
+Broccoli,post_control_footwork,73,65
+Broccoli,putback,77,64
+Broccoli,floater,79,69
+Broccoli,rolling,78,68
+Broccoli,mid_range_jumper,79,83
+Broccoli,contested_mid_range_jumper,76,83
+Broccoli,post_fadeaway,77,81
+Broccoli,off_dribble_mid_range_jumper,70,83
+Broccoli,mid_range_shot_creation,66,83
+Broccoli,three_pt_jumper,84,81
+Broccoli,deep_three_pt_jumper,87,81
+Broccoli,contested_three_pt_jumper,82,81
+Broccoli,off_dribble_three_pt_jumper,82,81
+Broccoli,catch_and_shoot_three_pt_jumper,85,81
+Broccoli,three_pt_shot_creation,65,81
+Broccoli,shot_selection,74,70
+Broccoli,off_ball_movement,73,62
+Broccoli,shot_confidence,75,78
+Broccoli,ball_handle,56,52
+Broccoli,ball_security,61,70
+Broccoli,pass_vision,36,54
+Broccoli,pass_accuracy,56,43
+Broccoli,defensive_rebound,69,48
+Broccoli,offensive_rebound,68,45
+Broccoli,boxout_strength,75,92
+Broccoli,swim_move,72,60
+Broccoli,interior_shot_defense_strength,76,68
+Broccoli,interior_shot_deterrence,77,68
+Broccoli,post_defense,67,68
+Broccoli,perimeter_shot_defense_strength,54,51
+Broccoli,perimeter_shot_deterrence,50,51
+Broccoli,help_defense_iq,80,67
+Broccoli,pass_perception,47,58
+Broccoli,steal,41,53
+Broccoli,speed,64,46
+Broccoli,agility,65,62
+Broccoli,vertical,68,69
+Broccoli,strength,79,82
+Broccoli,stamina,88,86
+Broccoli,reaction_time,76,62
+Broccoli,hands,82,85
+Broccoli,shot_close,26,18
+Broccoli,shot_mid_range,5,12
+Broccoli,shot_3_pointer,69,70
+Broccoli,shot_mid_off_dribble,51,58
+Broccoli,shot_mid_off_catch,24,19
+Broccoli,shot_mid_contested,24,67
+Broccoli,shot_3_off_dribble,1,8
+Broccoli,shot_3_off_catch,87,89
+Broccoli,shot_3_off_screen,39,24
+Broccoli,shot_3_contested,46,42
+Broccoli,shot_3_deep,14,86
+Broccoli,tend_driving_layup,36,33
+Broccoli,tend_driving_dunk,12,15.0
+Broccoli,tend_standing_layup,42,52
+Broccoli,tend_standing_dunk,27,29.5
+Broccoli,driving_aggressiveness,77,80
+Broccoli,tend_floater,65,73
+Broccoli,tend_paint_jumper,28,75
+Broccoli,alley_oop_finish,39,38
+Broccoli,drive_frequency,23,10
+Broccoli,drive_off_screen,23,32
+Broccoli,post_up,42,5
+Broccoli,post_move,77,94
+Broccoli,back_down,78,81
+Broccoli,tend_post_fadeaway,82,85
+Broccoli,post_face_up,74,88
+Broccoli,shoot_from_post,36,53
+Broccoli,shot,32,26
+Broccoli,touches,30,48
+Broccoli,bring_up,7,18
+Broccoli,roller_popper,64,90
+Broccoli,spot_up_frequency,55,70
+Broccoli,play_handoff,3,0
+Broccoli,play_off_screen,12,32
+Broccoli,screener_frequency,65,60
+Broccoli,cutter_frequency,40,42
+Broccoli,iso_confidence,42,62
+Broccoli,ball_dominance,21,36
+Broccoli,pass_out_frequency,45,40
+Broccoli,drive_and_kick_frequency,44,38
+Broccoli,outlet_pass_frequency,58,60
+Broccoli,alley_oop_pass,41,31
+Broccoli,offensive_rebound_aggression,54,35
+Broccoli,crash_for_board,66,65
+Broccoli,pressure_ball_handler,36,48
+Broccoli,reach_for_strip,35,39
+Broccoli,pass_interception_attempt,36,48
+Broccoli,block_attempt,50,75
+Broccoli,clutch_shot,32,26
+Broccoli,clutch_touches,30,48
+Goey,driving_layup,,59
+Goey,driving_dunk,,58
+Goey,standing_layup,,57
+Goey,standing_dunk,,34
+Goey,dunk_in_traffic,,58
+Goey,contact_layup,,52
+Goey,paint_jumper,,59
+Goey,close_shot_from_post,,57
+Goey,rim_craftiness,,59
+Goey,draw_foul,,57
+Goey,post_control_footwork,,42
+Goey,putback,,35
+Goey,floater,,58
+Goey,rolling,,58
+Goey,mid_range_jumper,,73
+Goey,contested_mid_range_jumper,,73
+Goey,post_fadeaway,,52
+Goey,off_dribble_mid_range_jumper,,73
+Goey,mid_range_shot_creation,,73
+Goey,three_pt_jumper,,81
+Goey,deep_three_pt_jumper,,80
+Goey,contested_three_pt_jumper,,80
+Goey,off_dribble_three_pt_jumper,,81
+Goey,catch_and_shoot_three_pt_jumper,,81
+Goey,three_pt_shot_creation,,80
+Goey,shot_selection,,65
+Goey,off_ball_movement,,78
+Goey,shot_confidence,,79
+Goey,ball_handle,,96
+Goey,ball_security,,84
+Goey,pass_vision,,68
+Goey,pass_accuracy,,83
+Goey,defensive_rebound,,48
+Goey,offensive_rebound,,35
+Goey,boxout_strength,,47
+Goey,swim_move,,59
+Goey,interior_shot_defense_strength,,44
+Goey,interior_shot_deterrence,,44
+Goey,post_defense,,44
+Goey,block,,44
+Goey,perimeter_shot_defense_strength,,44
+Goey,perimeter_shot_deterrence,,44
+Goey,perimeter_defense,,44
+Goey,help_defense_iq,,44
+Goey,pass_perception,,44
+Goey,steal,,44
+Goey,speed,,84
+Goey,agility,,84
+Goey,vertical,,87
+Goey,strength,,40
+Goey,stamina,,85
+Goey,reaction_time,,78
+Goey,hands,,96
+Goey,shot_close,23,19
+Goey,shot_mid_range,20,24
+Goey,shot_mid_off_dribble,,66
+Goey,shot_mid_off_catch,,3
+Goey,shot_mid_contested,,59
+Goey,shot_3_off_dribble,,55
+Goey,shot_3_off_catch,,63
+Goey,shot_3_off_screen,,28
+Goey,shot_3_contested,,55
+Goey,shot_3_deep,,62
+Goey,tend_driving_layup,,43
+Goey,tend_driving_dunk,,3.8
+Goey,tend_standing_layup,,38
+Goey,tend_standing_dunk,,25.8
+Goey,driving_aggressiveness,,32
+Goey,tend_floater,66,77
+Goey,tend_paint_jumper,,89
+Goey,alley_oop_finish,,50
+Goey,drive_frequency,,40
+Goey,drive_off_screen,,81
+Goey,post_up,0,29
+Goey,post_move,,38
+Goey,back_down,,35
+Goey,tend_post_fadeaway,,46
+Goey,post_face_up,,39
+Goey,shoot_from_post,,29
+Goey,shot,42,40
+Goey,touches,40,60
+Goey,bring_up,,46
+Goey,roller_popper,,76
+Goey,spot_up_frequency,,45
+Goey,play_handoff,,58
+Goey,play_off_screen,,50
+Goey,screener_frequency,,26
+Goey,cutter_frequency,,30
+Goey,iso_frequency,,55
+Goey,iso_confidence,,48
+Goey,ball_dominance,,69
+Goey,pass_out_frequency,,60
+Goey,drive_and_kick_frequency,,45
+Goey,outlet_pass_frequency,,42
+Goey,alley_oop_pass,,53
+Goey,offensive_rebound_aggression,,18
+Goey,crash_for_board,,33
+Goey,pressure_ball_handler,,45
+Goey,reach_for_strip,,34
+Goey,pass_interception_attempt,,45
+Goey,draw_charge,12,19
+Goey,block_attempt,,39
+Goey,clutch_shot,42,40
+Goey,clutch_touches,40,60
+Beh-Ggommi,driving_layup,,76
+Beh-Ggommi,driving_dunk,,68
+Beh-Ggommi,standing_layup,,86
+Beh-Ggommi,standing_dunk,,70
+Beh-Ggommi,dunk_in_traffic,,68
+Beh-Ggommi,contact_layup,,79
+Beh-Ggommi,paint_jumper,,84
+Beh-Ggommi,close_shot_from_post,,79
+Beh-Ggommi,rim_craftiness,,63
+Beh-Ggommi,draw_foul,,42
+Beh-Ggommi,post_control_footwork,,82
+Beh-Ggommi,putback,,65
+Beh-Ggommi,floater,,75
+Beh-Ggommi,rolling,,72
+Beh-Ggommi,mid_range_jumper,,80
+Beh-Ggommi,contested_mid_range_jumper,,80
+Beh-Ggommi,post_fadeaway,,83
+Beh-Ggommi,off_dribble_mid_range_jumper,,80
+Beh-Ggommi,mid_range_shot_creation,,80
+Beh-Ggommi,three_pt_jumper,,72
+Beh-Ggommi,deep_three_pt_jumper,,73
+Beh-Ggommi,contested_three_pt_jumper,,73
+Beh-Ggommi,off_dribble_three_pt_jumper,,72
+Beh-Ggommi,catch_and_shoot_three_pt_jumper,,72
+Beh-Ggommi,three_pt_shot_creation,,73
+Beh-Ggommi,shot_selection,,64
+Beh-Ggommi,off_ball_movement,,58
+Beh-Ggommi,shot_confidence,,74
+Beh-Ggommi,ball_handle,,54
+Beh-Ggommi,ball_security,,65
+Beh-Ggommi,pass_vision,,72
+Beh-Ggommi,pass_accuracy,,80
+Beh-Ggommi,defensive_rebound,,120
+Beh-Ggommi,offensive_rebound,,61
+Beh-Ggommi,boxout_strength,,115
+Beh-Ggommi,swim_move,,60
+Beh-Ggommi,interior_shot_defense_strength,,79
+Beh-Ggommi,interior_shot_deterrence,,73
+Beh-Ggommi,post_defense,,86
+Beh-Ggommi,block,,73
+Beh-Ggommi,perimeter_shot_defense_strength,,57
+Beh-Ggommi,perimeter_shot_deterrence,,57
+Beh-Ggommi,perimeter_defense,,57
+Beh-Ggommi,help_defense_iq,,81
+Beh-Ggommi,pass_perception,,63
+Beh-Ggommi,steal,,44
+Beh-Ggommi,speed,,50
+Beh-Ggommi,agility,,58
+Beh-Ggommi,vertical,,62
+Beh-Ggommi,strength,,85
+Beh-Ggommi,stamina,,95
+Beh-Ggommi,reaction_time,,58
+Beh-Ggommi,hands,,91
+Beh-Ggommi,shot_close,58,63
+Beh-Ggommi,shot_mid_range,17,12
+Beh-Ggommi,shot_mid_off_dribble,,30
+Beh-Ggommi,shot_mid_off_catch,,37
+Beh-Ggommi,shot_mid_contested,,19
+Beh-Ggommi,shot_3_off_dribble,,2
+Beh-Ggommi,shot_3_off_catch,,94
+Beh-Ggommi,shot_3_off_screen,,16
+Beh-Ggommi,shot_3_contested,,18
+Beh-Ggommi,shot_3_deep,,0
+Beh-Ggommi,tend_driving_layup,,56
+Beh-Ggommi,tend_driving_dunk,,7.5
+Beh-Ggommi,tend_standing_layup,,71
+Beh-Ggommi,tend_standing_dunk,,15.5
+Beh-Ggommi,driving_aggressiveness,,86
+Beh-Ggommi,tend_floater,38,56
+Beh-Ggommi,tend_paint_jumper,,57
+Beh-Ggommi,alley_oop_finish,,42
+Beh-Ggommi,drive_frequency,,27
+Beh-Ggommi,drive_off_screen,,27
+Beh-Ggommi,post_up,,30
+Beh-Ggommi,post_move,,93
+Beh-Ggommi,back_down,,87
+Beh-Ggommi,tend_post_fadeaway,,92
+Beh-Ggommi,post_face_up,,87
+Beh-Ggommi,shoot_from_post,,44
+Beh-Ggommi,shot,58,36
+Beh-Ggommi,touches,69,85
+Beh-Ggommi,bring_up,,41
+Beh-Ggommi,roller_popper,,40
+Beh-Ggommi,spot_up_frequency,,40
+Beh-Ggommi,play_handoff,,0
+Beh-Ggommi,play_off_screen,,25
+Beh-Ggommi,screener_frequency,,60
+Beh-Ggommi,cutter_frequency,,45
+Beh-Ggommi,iso_frequency,,5
+Beh-Ggommi,iso_confidence,,22
+Beh-Ggommi,ball_dominance,,34
+Beh-Ggommi,pass_out_frequency,,90
+Beh-Ggommi,drive_and_kick_frequency,,65
+Beh-Ggommi,outlet_pass_frequency,,96
+Beh-Ggommi,alley_oop_pass,,82
+Beh-Ggommi,offensive_rebound_aggression,,70
+Beh-Ggommi,crash_for_board,,85
+Beh-Ggommi,pressure_ball_handler,,42
+Beh-Ggommi,reach_for_strip,,30
+Beh-Ggommi,pass_interception_attempt,,35
+Beh-Ggommi,draw_charge,10,0
+Beh-Ggommi,block_attempt,,45
+Beh-Ggommi,clutch_shot,58,36
+Beh-Ggommi,clutch_touches,69,85
+Yeti,driving_layup,73,64
+Yeti,driving_dunk,69,81
+Yeti,standing_layup,74,57
+Yeti,standing_dunk,63,53
+Yeti,dunk_in_traffic,73,81
+Yeti,contact_layup,77,70
+Yeti,paint_jumper,78,73
+Yeti,close_shot_from_post,69,59
+Yeti,rim_craftiness,61,80
+Yeti,draw_foul,40,45
+Yeti,post_control_footwork,69,54
+Yeti,putback,69,49
+Yeti,floater,76,74
+Yeti,rolling,81,70
+Yeti,mid_range_jumper,67,54
+Yeti,contested_mid_range_jumper,66,54
+Yeti,post_fadeaway,63,50
+Yeti,off_dribble_mid_range_jumper,60,54
+Yeti,mid_range_shot_creation,63,54
+Yeti,three_pt_jumper,66,68
+Yeti,deep_three_pt_jumper,61,76
+Yeti,contested_three_pt_jumper,65,76
+Yeti,off_dribble_three_pt_jumper,58,68
+Yeti,catch_and_shoot_three_pt_jumper,67,68
+Yeti,three_pt_shot_creation,64,76
+Yeti,shot_selection,82,74
+Yeti,off_ball_movement,79,92
+Yeti,shot_confidence,62,68
+Yeti,ball_handle,64,67
+Yeti,pass_vision,56,66
+Yeti,pass_accuracy,62,66
+Yeti,defensive_rebound,68,49
+Yeti,offensive_rebound,64,44
+Yeti,boxout_strength,67,63
+Yeti,swim_move,73,68
+Yeti,interior_shot_defense_strength,76,87
+Yeti,interior_shot_deterrence,71,81
+Yeti,post_defense,85,87
+Yeti,block,54,41
+Yeti,perimeter_shot_defense_strength,79,97
+Yeti,perimeter_shot_deterrence,77,91
+Yeti,perimeter_defense,83,91
+Yeti,help_defense_iq,88,91
+Yeti,pass_perception,67,78
+Yeti,steal,62,50
+Yeti,speed,75,76
+Yeti,agility,76,92
+Yeti,vertical,74,80
+Yeti,strength,83,79
+Yeti,stamina,93,87
+Yeti,reaction_time,85,92
+Yeti,hands,92,85
+Yeti,shot_close,68,54
+Yeti,shot_mid_range,11,26
+Yeti,shot_3_pointer,21,20
+Yeti,shot_mid_off_dribble,52,78
+Yeti,shot_mid_off_catch,13,16
+Yeti,shot_mid_contested,20,39
+Yeti,shot_3_off_dribble,7,14
+Yeti,shot_3_off_catch,77,84
+Yeti,shot_3_off_screen,12,36
+Yeti,shot_3_contested,0,34
+Yeti,tend_driving_layup,60,24
+Yeti,tend_driving_dunk,5,8.0
+Yeti,tend_standing_layup,70,31
+Yeti,tend_standing_dunk,17,29.5
+Yeti,driving_aggressiveness,70,40
+Yeti,tend_floater,34,36
+Yeti,tend_paint_jumper,39,49
+Yeti,alley_oop_finish,58,46
+Yeti,drive_frequency,42,48
+Yeti,drive_off_screen,42,48
+Yeti,post_up,39,20
+Yeti,post_move,72,48
+Yeti,back_down,84,71
+Yeti,tend_post_fadeaway,62,44
+Yeti,post_face_up,56,53
+Yeti,shoot_from_post,40,24
+Yeti,shot,25,35
+Yeti,touches,30,37
+Yeti,bring_up,30,32
+Yeti,roller_popper,34,78
+Yeti,spot_up_frequency,43,45
+Yeti,play_handoff,7,36
+Yeti,screener_frequency,27,34
+Yeti,cutter_frequency,56,60
+Yeti,iso_confidence,41,31
+Yeti,ball_dominance,40,15
+Yeti,pass_out_frequency,48,54
+Yeti,drive_and_kick_frequency,47,51
+Yeti,outlet_pass_frequency,54,59
+Yeti,alley_oop_pass,46,51
+Yeti,offensive_rebound_aggression,44,45
+Yeti,crash_for_board,42,50
+Yeti,pressure_ball_handler,58,90
+Yeti,reach_for_strip,64,35
+Yeti,pass_interception_attempt,58,35
+Yeti,draw_charge,40,37
+Yeti,block_attempt,36,30
+Yeti,clutch_shot,25,35
+Yeti,clutch_touches,30,37

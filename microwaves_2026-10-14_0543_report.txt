@@ -1,0 +1,190 @@
+David Bowie
+  The best player in the file, no holes: an iso scorer with a skin-tight handle who gets to his spots and converts anywhere, any contest, any gather; splits any trap with the read or the handle. Defends on instinct and reads - knows what you will do before you do. Tall, quick, agile, bouncy, strong; an average wingspan. Rebounds a lot for a point guard.
+  base: his own row as the Sheet has it
+  OVR 129.0 at PG (no target)
+  archetype: wanted All-Around Legend | the draft reads 2-Way Crafty Playmaking 3-Level Scorer | the Sheet's row reads 2-Way Crafty Playmaking 3-Level Scorer
+  the Sheet's row as it is: OVR 123.9 at PG
+
+Spots
+  A 7'5" paint anchor who stretches the floor: extremely low usage - catch and dunk, catch and shoot - off the pick-and-roll and pop with Bowie, and the offensive glass. Height and discipline make him an elite anchor and shot-blocker; his post defence lags, skilled post bigs abuse him. Slow (above average for his size), a little weak for his height. Low mistakes, low usage, high impact.
+  base: his own row; 0 blank cells from Chet Holmgren 100%
+  OVR 108.8 at C (no target)
+  archetype: wanted Inside Out Anchor | the draft reads Glass-Cleaning Rim Protector | the Sheet's row reads Unicorn Playmaking Paint Beast
+  the Sheet's row as it is: OVR 98.5 at C
+
+Super Rabbit Boy
+  Uber-quick: blows by defenders to create for himself and others; otherwise a prototypical combo guard - three levels, passes well. Into the passing lanes on defence, below average on the ball. Thin, built for speed: struggles on the glass and through contact.
+  comps: Scoot Henderson 60%, De'Aaron Fox 40%
+  OVR 78.9 at SG (guide 76, band 76-80): inside it as the recipe made him
+  line at 28 min: shot 10.2 FGA a 36 (13.0 is 50); touches the comp's 50, x0.77 for his usage; shot_3_pointer 3.7 of 7.9 FGA; shot_close the twos 60% close, 40% mid-range, by the recipe
+  archetype: wanted Speedy Combo Guard | the draft reads Speedy Shot Creator | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 49.7 at SG
+
+Loaf
+  A solid three-level scorer, a Swiss army knife: parks anywhere as a spot-up shooter, hits the one-dribble pull-up from mid-range at a high clip, finishes cuts. Average to a little above on defence, switches 2-4. A stocky forward, above-average strength, average athleticism for a three.
+  comps: Tobias Harris 70%, Khris Middleton 30%
+  OVR 80.3 at SF (guide 79, band 79-83): inside it as the recipe made him
+  line at 30 min: shot 13.1 FGA a 36 (13.0 is 50); touches the comp's 53, x0.94 for his usage; shot_3_pointer 4.5 of 10.9 FGA; shot_close the twos 55% close, 45% mid-range, by the recipe
+  archetype: wanted 3-Level Scorer | the draft reads Crafty Offensive Engine | the Sheet's row reads Floor General
+  the Sheet's row as it is: OVR 52.5 at SF
+
+Beh-Ggommi
+  A long-time vet who adapted with his mind: still a traditional four at heart - great on the boards, a good post game, strong post defence without many stocks - grown into a cerebral facilitator and play finisher who stretches the floor enough to pass. Heart and grit on the glass and on defence.
+  comps: Al Horford 50%, Domantas Sabonis 50%
+  OVR 81.8 after the recipe -> 81.0 at PF (guide 77, band 77-81; the rest of his skills x0.98 above 25)
+  line at 24 min: shot 9.5 FGA a 36 (13.0 is 50); touches the comp's 77, x0.92 for his usage; shot_3_pointer 1.6 of 6.3 FGA; shot_close the twos 84% close, 16% mid-range, as the comp's
+  archetype: wanted Slashing Paint Beast | the draft reads 2-Way Versatile Stretch Big | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 56.9 at PF
+
+Tusky
+  A pick-setter and play finisher; a below-average three-point shooter who spends a lot of time in a corner anyway. A versatile, switchable defender: strong enough down low, works hard enough on the perimeter. Undersized, a hard worker, high-effort plays; strong enough to play the four.
+  comps: Jae'Sean Tate 60%, Kenrich Williams 40%
+  OVR 70.6 after the recipe -> 75.0 at PF (guide 75, band 75-79; the rest of his skills x1.20 above 25)
+  line at 27 min: shot 8.4 FGA a 36 (13.0 is 50); touches the comp's 43, x0.84 for his usage; shot_3_pointer 1.5 of 6.3 FGA; shot_close the twos 87% close, 13% mid-range, as the comp's
+  archetype: wanted 2-Way Finisher | the draft reads Facilitating Lockdown | the Sheet's row reads Playmaking Big
+  the Sheet's row as it is: OVR 53.9 at PF
+
+Goey
+  A microwave scorer off the bench: picks his spots beyond the arc and from mid-range; undersized, so he does not finish at the rim well. A good shooter who creates for himself, or spots up and moves off the ball; a solid playmaker who makes the right reads. A poor defender - size and a weak frame. Quick and shifty.
+  comps: Malik Monk 60%, Jordan Clarkson 40%
+  OVR 73.6 after the recipe -> 73.9 at PG (guide 74, band 74-78; the rest of his skills x1.01 above 25)
+  line at 18 min: shot 10.2 FGA a 36 (13.0 is 50); touches the comp's 49, x0.81 for his usage; shot_3_pointer 2.9 of 5.1 FGA; shot_close the twos 45% close, 55% mid-range, by the recipe
+  archetype: wanted Shot Creator | the draft reads Sharpshooter | the Sheet's row reads Slasher
+  the Sheet's row as it is: OVR 47.5 at PG
+
+Broccoli
+  A prototypical early stretch big: would rather pop and sit at the three than play inside, so no great presence on the glass nor an incredible interior defender - serviceable enough to play. An above-average shooter.
+  comps: Kristaps Porzingis 50%, Brook Lopez 50%
+  OVR 73.1 after the recipe -> 74.0 at PF (guide 74, band 74-78; the rest of his skills x1.02 above 25)
+  line at 21 min: shot 6.9 FGA a 36 (13.0 is 50); touches the comp's 58, x0.82 for his usage; shot_3_pointer 2.8 of 4.0 FGA; shot_close the twos 60% close, 40% mid-range, by the recipe
+  archetype: wanted Unicorn | the draft reads Stretch Big | the Sheet's row reads Stretch Big
+  the Sheet's row as it is: OVR 77.4 at PF
+
+Yeti
+  Offensively stunted: an okay play finisher. A hard-nosed, high-pressure defender who wears scorers out; small, but switches onto bigs and wings. Few stocks, good shot defence, stays in front. Plays hard; a rebound here and there.
+  comps: Herb Jones 50%, Luguentz Dort 50%
+  OVR 76.5 at SF (guide 75, band 75-79): inside it as the recipe made him
+  line at 16 min: shot 9.2 FGA a 36 (13.0 is 50); touches the comp's 37, x0.99 for his usage; shot_3_pointer 0.8 of 4.1 FGA; shot_close the twos 68% close, 32% mid-range, as the comp's
+  archetype: wanted Physical Defender | the draft reads Slashing Lockdown | the Sheet's row reads Play Finisher
+  the Sheet's row as it is: OVR 73.5 at SF
+
+THE MICROWAVES' SEASON (season.py's games, 3 passes), per game
+                                  MIN   PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA   FG%   3P%
+  David Bowie         guide        48  63.1  12.5  11.8   6.3   3.4   3.6  34.5  12.2  13.2  63.2  55.7
+                      Sheet      47.1  71.1  12.0  16.9   4.9   3.0   4.6  42.9  13.9  15.2  59.0  42.9
+                      draft      47.2  67.7  12.2  15.7   6.1   3.3   3.7  37.9  11.3  14.4  63.3  51.4
+  Super Rabbit Boy    guide        28  10.3   1.6   4.3   1.3   0.3   3.2   7.9   3.7   2.2  44.5  39.6
+                      Sheet      29.2   6.4   3.6   1.1   0.6   0.2   1.3   6.7   3.6   0.8  36.6  21.5
+                      draft      28.7  13.1   1.7   3.8   1.5   0.2   1.3   9.7   4.9   2.4  47.7  37.2
+  Loaf                guide        30  13.2   4.2   2.9   0.7   0.5   2.2  10.9   4.5   1.8  46.2  38.5
+                      Sheet      30.3   7.0   3.5   1.3   0.6   0.2   1.4   7.1   3.3   1.1  37.7  20.8
+                      draft      30.6  14.8   3.9   2.1   1.2   0.4   1.0  11.0   4.7   2.2  50.4  40.3
+  Tusky               guide        27   7.2   3.1   1.4   0.8   0.6   1.8   6.3   1.5   1.2  46.2  31.1
+                      Sheet      27.8   5.5   3.3   0.7   0.5   0.2   1.0   5.0   1.6   0.9  44.8  23.1
+                      draft      26.9   7.3   3.9   1.6   1.1   0.3   0.8   6.0   1.7   1.0  49.6  32.7
+  Spots               guide        35  18.1  14.2   2.5   0.8   4.4   1.3  10.9   3.2   1.4  71.3  42.8
+                      Sheet      36.6  21.3  12.2   1.9   1.0   2.2   1.6  13.4   4.5   2.7  63.5  45.4
+                      draft      36.1  19.3  14.6   2.4   0.9   3.8   1.3  12.2   3.4   2.1  65.9  40.4
+  Broccoli            guide         0   5.1   3.2   0.9   0.5   1.0   1.7   4.0   2.8   0.7  43.2  38.1
+                      Sheet      20.6   6.1   4.4   0.3   0.4   0.4   0.5   4.2   3.1   0.8  49.8  44.4
+                      draft      20.8   6.0   2.1   1.0   0.6   0.4   0.9   4.3   3.3   1.0  44.9  40.2
+  Goey                guide        18   6.2   0.8   2.5   0.7   0.2   2.5   5.1   2.9   1.0  42.2  37.1
+                      Sheet      17.2   3.6   2.3   0.5   0.3   0.1   0.4   3.6   2.1   0.4  37.3  23.4
+                      draft      17.6   6.8   1.5   1.8   0.4   0.1   0.6   5.9   3.6   1.0  41.1  33.5
+  Beh-Ggommi          guide        24   9.2   7.9   3.5   0.7   0.8   2.5   6.3   1.6   2.1  55.3  36.2
+                      Sheet      24.8   6.5   3.1   1.3   0.5   0.2   1.4   6.2   2.1   0.9  42.5  19.6
+                      draft      24.6   8.1   6.9   2.3   0.6   0.4   0.9   6.0   2.0   1.1  54.2  32.9
+  Yeti                guide         9   4.2   2.2   1.3   1.0   0.6   1.4   4.1   0.8   0.6  43.8  27.8
+                      Sheet       8.2   1.3   1.2   0.3   0.4   0.1   0.1   1.0   0.3   0.2  52.3  26.9
+                      draft       8.5   2.4   0.9   0.4   0.2   0.0   0.2   1.8   0.6   0.3  53.7  44.7
+  Sheet: 62-16, 128.6 - 110.9
+  draft: 75-3, 145.2 - 106.5
+
+  SHARE OF THE TEAM'S TOTAL, %
+                                  PTS   REB   AST   STL   BLK    TO   FGA   3PA   FTA
+  team total          guide     136.6  49.7  31.1  12.8  11.8  20.2  90.0  33.2  24.2
+                      Sheet     128.6  45.6  24.3   9.1   6.8  12.4  90.0  34.6  23.1
+                      draft     145.2  47.5  31.1  12.6   9.1  10.7  94.7  35.6  25.5
+  David Bowie         guide      46.2  25.2  37.9  49.2  28.8  17.8  38.3  36.7  54.5
+                      Sheet      55.3  26.4  69.8  53.7  44.5  37.5  47.6  40.3  65.9
+                      draft      46.6  25.7  50.6  48.7  36.6  34.8  40.0  31.8  56.6
+  Super Rabbit Boy    guide       7.5   3.2  13.8  10.2   2.5  15.8   8.8  11.1   9.1
+                      Sheet       5.0   7.9   4.6   6.3   3.6  10.2   7.4  10.3   3.7
+                      draft       9.0   3.6  12.2  11.7   2.5  12.2  10.2  13.8   9.5
+  Loaf                guide       9.7   8.5   9.3   5.5   4.2  10.9  12.1  13.6   7.4
+                      Sheet       5.4   7.8   5.2   6.2   3.1  11.6   7.9   9.6   4.9
+                      draft      10.2   8.1   6.9   9.9   3.8   9.8  11.7  13.3   8.5
+  Tusky               guide       5.3   6.2   4.5   6.2   5.1   8.9   7.0   4.5   5.0
+                      Sheet       4.3   7.2   3.0   6.0   3.0   8.3   5.6   4.8   3.7
+                      draft       5.0   8.2   5.0   9.0   3.8   7.9   6.3   4.9   4.0
+  Spots               guide      13.3  28.6   8.0   6.2  37.3   6.4  12.1   9.6   5.8
+                      Sheet      16.6  26.8   7.7  10.7  33.2  12.5  14.8  13.0  11.6
+                      draft      13.3  30.6   7.8   7.2  42.1  11.8  12.9   9.6   8.4
+  Broccoli            guide       3.7   6.4   2.9   3.9   8.5   8.4   4.4   8.4   2.9
+                      Sheet       4.8   9.8   1.4   4.4   6.1   4.1   4.7   8.9   3.4
+                      draft       4.1   4.3   3.1   4.4   4.4   8.2   4.6   9.4   3.8
+  Goey                guide       4.5   1.6   8.0   5.5   1.7  12.4   5.7   8.7   4.1
+                      Sheet       2.8   5.1   2.0   3.3   2.0   3.6   4.0   6.1   1.9
+                      draft       4.7   3.1   5.9   2.9   1.6   5.5   6.2  10.0   3.8
+  Beh-Ggommi          guide       6.7  15.9  11.3   5.5   6.8  12.4   7.0   4.8   8.7
+                      Sheet       5.0   6.7   5.3   5.2   3.6  11.3   6.9   6.2   4.1
+                      draft       5.6  14.5   7.3   4.5   4.8   8.5   6.4   5.7   4.4
+  Yeti                guide       3.1   4.4   4.2   7.8   5.1   6.9   4.6   2.4   2.5
+                      Sheet       1.0   2.7   1.1   4.8   1.2   1.0   1.2   0.9   0.8
+                      draft       1.7   2.0   1.3   1.9   0.4   1.6   1.9   1.7   1.2
+
+  ADVANCED SCORE (per game, and per 36 minutes) AGAINST THE GUIDE'S OVR, ranked in the team
+                        OVR  rank    Sheet ADV    /36  rank    draft ADV    /36  rank
+  David Bowie           115     1        16.30  12.45     1        16.73  12.75     1
+  Spots                  86     2         4.55   4.47     2         5.42   5.41     2
+  Loaf                   79     3         0.91   1.08     9         3.18   3.74     4
+  Beh-Ggommi             77     4         0.86   1.25     8         2.46   3.60     6
+  Super Rabbit Boy       76     5         1.28   1.57     6         2.89   3.62     5
+  Tusky                  75     6         0.97   1.25     7         2.58   3.46     7
+  Yeti                   75     7         0.93   4.06     3         1.25   5.31     3
+  Broccoli               74     8         1.51   2.64     4         1.30   2.26     9
+  Goey                   74     9         1.06   2.22     5         1.65   3.37     8
+  Sheet, its parts per 36:      offensive    scoring  playmakin  defensive  reboundin
+  David Bowie                            13.55      13.99       8.81       6.47       4.82
+  Spots                                   4.36       4.85       2.51       1.65       6.08
+  Loaf                                    0.95       1.04       1.19       1.46       2.44
+  Beh-Ggommi                              1.28       1.41       1.50       1.46       2.62
+  Super Rabbit Boy                        1.04       0.99       1.59       2.96       2.62
+  Tusky                                   1.29       1.27       1.73       1.30       2.49
+  Yeti                                    3.84       2.66       8.00       8.34       4.06
+  Broccoli                                3.02       3.09       3.03       1.09       4.23
+  Goey                                    1.88       1.47       3.51       4.06       3.07
+  draft, its parts per 36:      offensive    scoring  playmakin  defensive  reboundin
+  David Bowie                            13.50      13.94       8.77       7.67       4.86
+  Spots                                   4.34       4.43       3.42       4.01       7.65
+  Loaf                                    3.57       3.86       2.54       4.15       2.32
+  Beh-Ggommi                              3.12       2.71       3.98       3.42       4.91
+  Super Rabbit Boy                        3.84       3.65       3.85       3.81       1.33
+  Tusky                                   2.26       1.85       3.30       6.41       3.05
+  Yeti                                    4.57       3.57       8.04      11.20       3.41
+  Broccoli                                2.80       2.84       2.92       1.65       2.34
+  Goey                                    3.63       3.00       5.18       4.19       2.04
+
+David Bowie: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area 11.5 at 86.5% | paint 10.0 at 53.4% | short mid  5.3 at 56.7% | long mid 12.1 at 52.4% | three 13.7 at 42.8%
+    closest defender: 0-2 ft  7.6 at 57.1% | 2-4 24.5 at 59.5% | 4-6  5.7 at 67.7% | 6+  5.1 at 50.6%
+    how: driving 13.5 at 79.3% | standing  1.1 at 72.0% | off the dribble 22.3 at 47.0% | catch and shoot  3.9 at 51.5% | putback  1.6 at 69.0%
+    turnovers 4.6: bad passes 2.94, lost balls 0.88 | passes 111, touches 168
+  draft
+    zone: restricted area 11.0 at 88.1% | paint  8.9 at 55.1% | short mid  4.7 at 58.9% | long mid 10.9 at 52.6% | three 10.9 at 51.2%
+    closest defender: 0-2 ft  7.5 at 57.2% | 2-4 20.1 at 65.5% | 4-6  6.2 at 66.6% | 6+  4.2 at 58.9%
+    how: driving 13.1 at 80.5% | standing  0.9 at 79.5% | off the dribble 17.8 at 50.8% | catch and shoot  3.5 at 59.7% | putback  1.3 at 74.6%
+    turnovers 3.7: bad passes 2.11, lost balls 0.77 | passes 92, touches 142
+
+Spots: where his shots come from and how they go in, per game
+  Sheet
+    zone: restricted area  6.5 at 81.3% | paint  2.1 at 50.3% | short mid  2.1 at 50.3% | long mid  0.2 at 40.7% | three  2.8 at 44.9%
+    closest defender: 0-2 ft  1.8 at 60.1% | 2-4  2.9 at 64.7% | 4-6  2.3 at 56.9% | 6+  6.3 at 66.4%
+    how: driving  1.4 at 59.5% | standing  3.9 at 74.0% | off the dribble  0.9 at 48.0% | catch and shoot  6.1 at 57.4% | putback  1.8 at 59.2%
+    turnovers 1.6: bad passes 0.88, lost balls 0.19 | passes 31, touches 47
+  draft
+    zone: restricted area  6.8 at 82.1% | paint  2.0 at 54.7% | short mid  1.9 at 54.8% | long mid  0.1 at 42.1% | three  2.1 at 37.7%
+    closest defender: 0-2 ft  2.3 at 62.0% | 2-4  3.3 at 71.2% | 4-6  1.5 at 61.9% | 6+  5.1 at 65.3%
+    how: driving  0.9 at 61.6% | standing  5.5 at 76.5% | off the dribble  1.2 at 42.6% | catch and shoot  5.0 at 62.9% | putback  2.6 at 66.9%
+    turnovers 1.3: bad passes 0.59, lost balls 0.11 | passes 29, touches 44
